@@ -1,0 +1,247 @@
+{
+  "name": "Passenger Endorsement",
+  "requiredScore": 80,
+  "questionCount": 20,
+  "questions": [
+    {
+      "id": "pe1",
+      "question": "A CDL with passenger endorsement is required when operating a vehicle designed to transport how many passengers (including the driver)?",
+      "choices": [
+        "10 or more",
+        "12 or more",
+        "16 or more",
+        "20 or more"
+      ],
+      "correct": 2,
+      "explanation": "Bus drivers must have a CDL if they drive a vehicle designed to seat 16 or more persons, including the driver."
+    },
+    {
+      "id": "pe2",
+      "question": "What emergency equipment must a bus have?",
+      "choices": [
+        "Fire extinguisher and first aid kit",
+        "Fire extinguisher, reflectors, and spare fuses",
+        "Reflectors and emergency flares only",
+        "First aid kit and emergency flashlight"
+      ],
+      "correct": 1,
+      "explanation": "A bus must have a fire extinguisher and emergency reflectors (3 reflective triangles or at least 6 fusees or 3 liquid burning flares), plus spare electrical fuses unless equipped with circuit breakers."
+    },
+    {
+      "id": "pe3",
+      "question": "How many reflective triangles are required as emergency equipment?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 1,
+      "explanation": "The bus must have 3 reflective triangles (or at least 6 fusees or 3 liquid burning flares)."
+    },
+    {
+      "id": "pe4",
+      "question": "Where should standing passengers stay on a bus?",
+      "choices": [
+        "Anywhere they can find room",
+        "Behind the standee line",
+        "Near the driver for safety",
+        "In the front half of the bus"
+      ],
+      "correct": 1,
+      "explanation": "No rider may stand forward of the rear of the driver's seat. All standing riders must stay behind the standee line."
+    },
+    {
+      "id": "pe5",
+      "question": "How wide is the standee line on a bus floor?",
+      "choices": [
+        "1 inch",
+        "2 inches",
+        "3 inches",
+        "4 inches"
+      ],
+      "correct": 1,
+      "explanation": "Buses designed to allow standing must have a two-inch line on the floor showing riders where they cannot stand."
+    },
+    {
+      "id": "pe6",
+      "question": "What is the maximum total weight of hazardous materials that can be carried on a bus?",
+      "choices": [
+        "100 pounds",
+        "250 pounds",
+        "500 pounds",
+        "1000 pounds"
+      ],
+      "correct": 2,
+      "explanation": "Buses can carry no more than 500 pounds total of allowed hazardous materials."
+    },
+    {
+      "id": "pe7",
+      "question": "What is the maximum weight of any one class of hazardous material on a bus?",
+      "choices": [
+        "50 pounds",
+        "100 pounds",
+        "200 pounds",
+        "250 pounds"
+      ],
+      "correct": 1,
+      "explanation": "No more than 100 pounds of any one class of hazardous material may be carried on a bus."
+    },
+    {
+      "id": "pe8",
+      "question": "How far from railroad crossings should a bus stop?",
+      "choices": [
+        "5 to 25 feet",
+        "10 to 40 feet",
+        "15 to 50 feet",
+        "25 to 75 feet"
+      ],
+      "correct": 2,
+      "explanation": "Stop your bus between 15 and 50 feet before railroad crossings."
+    },
+    {
+      "id": "pe9",
+      "question": "At a drawbridge, how far back should you stop when there is no signal or attendant?",
+      "choices": [
+        "25 feet",
+        "50 feet",
+        "75 feet",
+        "100 feet"
+      ],
+      "correct": 1,
+      "explanation": "Stop at least 50 feet before the draw of the bridge."
+    },
+    {
+      "id": "pe10",
+      "question": "What type of tires are prohibited on the front wheels of a bus?",
+      "choices": [
+        "Snow tires or chains",
+        "All-season radial tires",
+        "Recapped or regrooved tires",
+        "Steel-belted radial tires"
+      ],
+      "correct": 2,
+      "explanation": "Front wheels must not have recapped or regrooved tires."
+    },
+    {
+      "id": "pe11",
+      "question": "Which hazardous materials can NEVER be carried on a bus?",
+      "choices": [
+        "Small arms ammunition (ORM-D)",
+        "Poison gas or liquid Class 6 poison",
+        "Emergency hospital supply shipments",
+        "Class 9 miscellaneous materials"
+      ],
+      "correct": 1,
+      "explanation": "Buses must never carry Division 2.3 poison gas, liquid Class 6 poison, tear gas, or irritating materials."
+    },
+    {
+      "id": "pe12",
+      "question": "When are you NOT required to stop at a railroad crossing in a bus?",
+      "choices": [
+        "When no train is visible in either direction",
+        "When a traffic signal is green or a flagman directs you",
+        "When other vehicles are crossing without stopping",
+        "You must always stop regardless of conditions"
+      ],
+      "correct": 1,
+      "explanation": "You do not have to stop, but must slow down and carefully check, when a traffic signal is green or a policeman/flagman is directing traffic."
+    },
+    {
+      "id": "pe13",
+      "question": "When crossing railroad tracks in a bus with a manual transmission, you should:",
+      "choices": [
+        "Shift into a higher gear for speed",
+        "Never change gears while crossing",
+        "Coast across in neutral",
+        "Stop on the tracks if traffic ahead stops"
+      ],
+      "correct": 1,
+      "explanation": "If your bus has a manual transmission, never change gears while crossing the tracks."
+    },
+    {
+      "id": "pe14",
+      "question": "What should you do before starting the bus after passengers have boarded?",
+      "choices": [
+        "Check all mirrors and proceed normally",
+        "Wait for them to be seated or braced",
+        "Start moving slowly to signal departure",
+        "Close the doors and pull away promptly"
+      ],
+      "correct": 1,
+      "explanation": "Wait for passengers to sit down or brace themselves before starting. Starting and stopping should be smooth to avoid rider injury."
+    },
+    {
+      "id": "pe15",
+      "question": "Where should you discharge a disruptive passenger?",
+      "choices": [
+        "At the nearest possible location",
+        "At a safe, well-lighted area",
+        "At the nearest intersection only",
+        "At the next scheduled stop only"
+      ],
+      "correct": 1,
+      "explanation": "Don't discharge disruptive riders where it would be unsafe for them. It may be safer at the next scheduled stop or a well-lighted area where there are other people."
+    },
+    {
+      "id": "pe16",
+      "question": "Which of the following is a 'prohibited practice' for bus drivers?",
+      "choices": [
+        "Using mirrors frequently while driving",
+        "Making verbal announcements at stops",
+        "Fueling in a closed building with riders aboard",
+        "Running the air conditioning while idling"
+      ],
+      "correct": 2,
+      "explanation": "Never refuel in a closed building with riders on board."
+    },
+    {
+      "id": "pe17",
+      "question": "When can you tow or push a disabled bus with passengers aboard?",
+      "choices": [
+        "Never under any circumstances",
+        "Only to the nearest safe spot to unload",
+        "Anytime if the driver deems it necessary",
+        "Only with dispatch approval and escort"
+      ],
+      "correct": 1,
+      "explanation": "Do not tow or push a disabled bus with riders aboard unless getting off would be unsafe. Only tow or push to the nearest safe spot to discharge passengers."
+    },
+    {
+      "id": "pe18",
+      "question": "What is the brake-door interlock system?",
+      "choices": [
+        "A lock preventing the door from opening while moving",
+        "Applies brakes and idles throttle when rear door opens",
+        "An alarm that sounds whenever any door is open",
+        "A backup brake that engages when parked at stops"
+      ],
+      "correct": 1,
+      "explanation": "The brake-door interlock applies the brakes and holds the throttle in idle position when the rear door is open."
+    },
+    {
+      "id": "pe19",
+      "question": "Should you use the brake-door interlock in place of the parking brake?",
+      "choices": [
+        "Yes, it's designed for that purpose",
+        "No, do not use it in place of the parking brake",
+        "Only when parked on level ground",
+        "Only when loading passengers"
+      ],
+      "correct": 1,
+      "explanation": "Do not use the brake-door interlock safety feature in place of the parking brake."
+    },
+    {
+      "id": "pe20",
+      "question": "What should you announce when arriving at a destination?",
+      "choices": [
+        "The location and estimated arrival time",
+        "Location, stop reason, departure time, and bus number",
+        "Only the departure time and bus number",
+        "The location and any schedule changes"
+      ],
+      "correct": 1,
+      "explanation": "When arriving at the destination or intermediate stops, announce: the location, reason for stopping, next departure time, and bus number."
+    }
+  ]
+}

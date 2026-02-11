@@ -1,0 +1,247 @@
+{
+  "name": "School Bus Endorsement",
+  "requiredScore": 80,
+  "questionCount": 20,
+  "questions": [
+    {
+      "id": "sb1",
+      "question": "The danger zone around a school bus can extend as much as how many feet from the front bumper?",
+      "choices": [
+        "10 feet",
+        "20 feet",
+        "30 feet",
+        "40 feet"
+      ],
+      "correct": 2,
+      "explanation": "The danger zones may extend as much as 30 feet from the front bumper, with the first 10 feet being the most dangerous."
+    },
+    {
+      "id": "sb2",
+      "question": "The danger zone extends how many feet to the left and right sides of the bus?",
+      "choices": [
+        "5 feet",
+        "10 feet",
+        "15 feet",
+        "20 feet"
+      ],
+      "correct": 1,
+      "explanation": "The danger zone extends 10 feet from the left and right sides of the bus."
+    },
+    {
+      "id": "sb3",
+      "question": "The danger zone extends how many feet behind the rear bumper?",
+      "choices": [
+        "5 feet",
+        "10 feet",
+        "20 feet",
+        "30 feet"
+      ],
+      "correct": 1,
+      "explanation": "The danger zone extends 10 feet behind the rear bumper of the school bus."
+    },
+    {
+      "id": "sb4",
+      "question": "When approaching a school bus stop, you should activate alternating amber warning lights at least how many feet before the stop?",
+      "choices": [
+        "100 feet",
+        "150 feet",
+        "200 feet",
+        "300 feet"
+      ],
+      "correct": 2,
+      "explanation": "Activate alternating flashing amber warning lights at least 200 feet or approximately 5-10 seconds before the school bus stop."
+    },
+    {
+      "id": "sb5",
+      "question": "When stopping to pick up students, the front bumper should be at least how far from students at the stop?",
+      "choices": [
+        "5 feet",
+        "10 feet",
+        "15 feet",
+        "20 feet"
+      ],
+      "correct": 1,
+      "explanation": "Bring school bus to a full stop with the front bumper at least 10 feet away from students at the designated stop."
+    },
+    {
+      "id": "sb6",
+      "question": "After unloading, students should walk at least how far from the side of the bus?",
+      "choices": [
+        "5 feet",
+        "10 feet",
+        "15 feet",
+        "20 feet"
+      ],
+      "correct": 1,
+      "explanation": "Tell students to exit the bus and walk at least 10 feet away from the side of the bus."
+    },
+    {
+      "id": "sb7",
+      "question": "How far should the outside flat mirrors let you see behind the bus?",
+      "choices": [
+        "100 feet or 2 bus lengths",
+        "200 feet or 4 bus lengths",
+        "300 feet or 6 bus lengths",
+        "50 feet or 1 bus length"
+      ],
+      "correct": 1,
+      "explanation": "Ensure flat mirrors are adjusted so you can see 200 feet or 4 bus lengths behind the bus."
+    },
+    {
+      "id": "sb8",
+      "question": "What should students do if they drop something near the bus?",
+      "choices": [
+        "Bend down and pick it up quickly",
+        "Leave it and get the driver's attention",
+        "Ask another student to retrieve it",
+        "Wait until the bus leaves to get it"
+      ],
+      "correct": 1,
+      "explanation": "Students should leave any dropped object and move to a point of safety out of the danger zones and attempt to get the driver's attention to retrieve the object."
+    },
+    {
+      "id": "sb9",
+      "question": "During mandatory evacuations, where should students be led to if there is a fire on the bus?",
+      "choices": [
+        "Downwind of the bus",
+        "Upwind of the bus",
+        "Behind the bus",
+        "In front of the bus"
+      ],
+      "correct": 1,
+      "explanation": "Lead students upwind of the bus if fire is present."
+    },
+    {
+      "id": "sb10",
+      "question": "If there is a risk from hazardous materials during evacuation, students should be led at least how far away?",
+      "choices": [
+        "100 feet",
+        "200 feet",
+        "300 feet",
+        "500 feet"
+      ],
+      "correct": 2,
+      "explanation": "Lead students upwind of the bus at least 300 feet if there is a risk from spilled hazardous materials."
+    },
+    {
+      "id": "sb11",
+      "question": "A safe place for evacuation should be at least how far off the road?",
+      "choices": [
+        "50 feet",
+        "100 feet",
+        "150 feet",
+        "200 feet"
+      ],
+      "correct": 1,
+      "explanation": "A safe place will be at least 100 feet off the road in the direction of oncoming traffic."
+    },
+    {
+      "id": "sb12",
+      "question": "At a railroad crossing, how far from the nearest rail should a school bus stop?",
+      "choices": [
+        "5 to 25 feet",
+        "10 to 40 feet",
+        "15 to 50 feet",
+        "25 to 75 feet"
+      ],
+      "correct": 2,
+      "explanation": "Stop no closer than 15 feet and no farther than 50 feet from the nearest rail."
+    },
+    {
+      "id": "sb13",
+      "question": "When crossing railroad tracks in a school bus, you should:",
+      "choices": [
+        "Cross quickly in a higher gear",
+        "Cross in a low gear without shifting",
+        "Stop on the tracks to check again",
+        "Coast across in neutral gear"
+      ],
+      "correct": 1,
+      "explanation": "Cross the tracks in a low gear. Do not change gears while crossing."
+    },
+    {
+      "id": "sb14",
+      "question": "If the gate comes down after you have started crossing the tracks, what should you do?",
+      "choices": [
+        "Stop immediately on the tracks",
+        "Back up behind the gate quickly",
+        "Keep driving through the gate",
+        "Wait on the tracks for it to rise"
+      ],
+      "correct": 2,
+      "explanation": "If the gate comes down after you have started across, drive through it even if it means you will break the gate."
+    },
+    {
+      "id": "sb15",
+      "question": "What is a passive railroad crossing?",
+      "choices": [
+        "A crossing with flashing red lights",
+        "A crossing with gates and bells",
+        "A crossing with no traffic control device",
+        "An abandoned or decommissioned crossing"
+      ],
+      "correct": 2,
+      "explanation": "A passive crossing does not have any type of traffic control device - no flashing lights, bells, or gates."
+    },
+    {
+      "id": "sb16",
+      "question": "How much tail swing can a school bus have?",
+      "choices": [
+        "Up to 1 foot",
+        "Up to 2 feet",
+        "Up to 3 feet",
+        "Up to 4 feet"
+      ],
+      "correct": 2,
+      "explanation": "A school bus can have up to a three-foot tail swing."
+    },
+    {
+      "id": "sb17",
+      "question": "When must you evacuate a school bus?",
+      "choices": [
+        "Only if students request evacuation",
+        "When there is fire or the bus is on tracks",
+        "Only during severe weather events",
+        "Whenever the bus is stopped over 5 minutes"
+      ],
+      "correct": 1,
+      "explanation": "You must evacuate when the bus is on fire or there is threat of fire, or when stalled on or adjacent to a railroad-highway crossing."
+    },
+    {
+      "id": "sb18",
+      "question": "Hydraulically braked school buses with a GVWR of 10,000 lbs or more must have ABS if built on or after:",
+      "choices": [
+        "March 1, 1997",
+        "March 1, 1998",
+        "March 1, 1999",
+        "January 1, 2000"
+      ],
+      "correct": 2,
+      "explanation": "Hydraulically braked trucks and buses with a GVWR of 10,000 lbs or more built on or after March 1, 1999 are required to have ABS."
+    },
+    {
+      "id": "sb19",
+      "question": "If backing a school bus is unavoidable, when should students be picked up?",
+      "choices": [
+        "After backing is completed",
+        "Before backing the bus",
+        "During backing with a spotter",
+        "It does not matter as long as you use mirrors"
+      ],
+      "correct": 1,
+      "explanation": "If you must back-up at a student pick-up point, be sure to pick up students before backing."
+    },
+    {
+      "id": "sb20",
+      "question": "How far in front of the bus should students walk before crossing the roadway?",
+      "choices": [
+        "5 feet",
+        "10 feet",
+        "15 feet",
+        "20 feet"
+      ],
+      "correct": 1,
+      "explanation": "Students should walk to a location at least 10 feet in front of the right corner of the bumper, but still remaining away from the front of the school bus."
+    }
+  ]
+}

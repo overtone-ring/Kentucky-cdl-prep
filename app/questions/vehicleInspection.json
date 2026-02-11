@@ -1,0 +1,367 @@
+{
+  "name": "Pre-Trip Inspection",
+  "requiredScore": 80,
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "vi1",
+      "question": "When checking belts during a pre-trip inspection, how much play should they have at the center?",
+      "choices": [
+        "1/4 to 1/2 inch",
+        "1/2 to 3/4 inch",
+        "1 to 1-1/2 inches",
+        "No play at all"
+      ],
+      "correct": 1,
+      "explanation": "Check belts for snugness - they should have 1/2 to 3/4 inch play at the center of the belt."
+    },
+    {
+      "id": "vi2",
+      "question": "The air compressor governor cut-out should occur at approximately what pressure?",
+      "choices": [
+        "80-100 psi",
+        "100-120 psi",
+        "120-140 psi",
+        "140-160 psi"
+      ],
+      "correct": 2,
+      "explanation": "The air compressor builds air pressure to governor cut-out at approximately 120-140 psi or as specified by manufacturer."
+    },
+    {
+      "id": "vi3",
+      "question": "During the air brake check, what is the maximum air pressure drop allowed in one minute for a single vehicle with the foot brake fully applied?",
+      "choices": [
+        "2 psi",
+        "3 psi",
+        "4 psi",
+        "5 psi"
+      ],
+      "correct": 1,
+      "explanation": "For a single vehicle, air pressure should not drop more than 3 psi in one minute with the foot brake fully applied."
+    },
+    {
+      "id": "vi4",
+      "question": "During the air brake check, what is the maximum air pressure drop allowed in one minute for a combination vehicle?",
+      "choices": [
+        "2 psi",
+        "3 psi",
+        "4 psi",
+        "5 psi"
+      ],
+      "correct": 2,
+      "explanation": "For a combination vehicle, air pressure should not drop more than 4 psi in one minute with the foot brake fully applied."
+    },
+    {
+      "id": "vi5",
+      "question": "The low air pressure warning devices must activate before air pressure drops below:",
+      "choices": [
+        "40 psi",
+        "55 psi",
+        "60 psi",
+        "70 psi"
+      ],
+      "correct": 1,
+      "explanation": "Low air warning devices (buzzer, light, flag) should activate before air pressure drops below 55 psi."
+    },
+    {
+      "id": "vi6",
+      "question": "On a tractor-trailer, the tractor protection valve and parking brake valve should close (pop out) at what air pressure range?",
+      "choices": [
+        "10-15 psi",
+        "20-45 psi",
+        "50-60 psi",
+        "55-65 psi"
+      ],
+      "correct": 1,
+      "explanation": "At a range between 20-45 psi on a tractor-trailer combination, the tractor protection valve and parking brake valve should close (pop out)."
+    },
+    {
+      "id": "vi7",
+      "question": "What is the minimum tread depth required on steering axle tires?",
+      "choices": [
+        "2/32 inch",
+        "4/32 inch",
+        "6/32 inch",
+        "8/32 inch"
+      ],
+      "correct": 1,
+      "explanation": "Steering axle tires require a minimum tread depth of 4/32 inch."
+    },
+    {
+      "id": "vi8",
+      "question": "What is the minimum tread depth required on all non-steering tires?",
+      "choices": [
+        "2/32 inch",
+        "4/32 inch",
+        "6/32 inch",
+        "1/32 inch"
+      ],
+      "correct": 0,
+      "explanation": "All non-steering tires require a minimum tread depth of 2/32 inch."
+    },
+    {
+      "id": "vi9",
+      "question": "For manual slack adjusters, how far should the brake pushrod move when pulled by hand (with brakes released)?",
+      "choices": [
+        "No more than 1/2 inch",
+        "No more than 1 inch",
+        "No more than 2 inches",
+        "No more than 3 inches"
+      ],
+      "correct": 1,
+      "explanation": "For manual slack adjusters, the brake pushrod should not move more than one inch when pulled by hand with brakes released."
+    },
+    {
+      "id": "vi10",
+      "question": "When performing the hydraulic brake check, how many times should you pump the brake pedal before holding it down?",
+      "choices": [
+        "One time",
+        "Two times",
+        "Three times",
+        "Five times"
+      ],
+      "correct": 2,
+      "explanation": "Pump the brake pedal three times, then hold it down for five seconds. The pedal should not move during those five seconds."
+    },
+    {
+      "id": "vi11",
+      "question": "When holding the hydraulic brake pedal down for the brake check, how long should you hold it?",
+      "choices": [
+        "3 seconds",
+        "5 seconds",
+        "10 seconds",
+        "15 seconds"
+      ],
+      "correct": 1,
+      "explanation": "After pumping three times, hold the brake pedal down for five seconds. It should not move (depress) during this time."
+    },
+    {
+      "id": "vi12",
+      "question": "What speed should you travel when performing the service brake check?",
+      "choices": [
+        "2 mph",
+        "5 mph",
+        "10 mph",
+        "15 mph"
+      ],
+      "correct": 1,
+      "explanation": "Pull forward at 5 mph, apply the service brake and stop to check that the vehicle stops properly and doesn't pull to either side."
+    },
+    {
+      "id": "vi13",
+      "question": "What emergency equipment is required on all commercial vehicles?",
+      "choices": [
+        "Three red triangles and a first aid kit",
+        "Fire extinguisher and a first aid kit",
+        "Triangles, fusees or flares, and fire extinguisher",
+        "First aid kit, fire extinguisher, and flares"
+      ],
+      "correct": 2,
+      "explanation": "Required emergency equipment includes three red reflective triangles, 6 fusees or 3 liquid burning flares, and a properly charged fire extinguisher."
+    },
+    {
+      "id": "vi14",
+      "question": "When should you check the engine oil level?",
+      "choices": [
+        "When the engine is running",
+        "When the engine is off",
+        "Either running or off",
+        "Only when the engine is warm"
+      ],
+      "correct": 1,
+      "explanation": "Check oil level when the engine is off. The oil level must be above the refill mark."
+    },
+    {
+      "id": "vi15",
+      "question": "What is the proper procedure for a safe start?",
+      "choices": [
+        "Start the engine with the vehicle in gear",
+        "Put gearshift in neutral or park, then start",
+        "Press the accelerator while turning the key",
+        "Release the parking brake before starting"
+      ],
+      "correct": 1,
+      "explanation": "For a safe start, place gearshift in neutral (or park for automatics), depress clutch before starting, and release clutch slowly after engine reaches idle."
+    },
+    {
+      "id": "vi16",
+      "question": "How do you check the parking brake during a pre-trip inspection?",
+      "choices": [
+        "Engage it and check the dashboard light",
+        "Engage it and gently try to pull forward",
+        "Press the brake pedal while in park",
+        "Engage it and listen for air release"
+      ],
+      "correct": 1,
+      "explanation": "With air pressure built to governor cutout and parking brake engaged, check that it holds by gently trying to pull forward."
+    },
+    {
+      "id": "vi17",
+      "question": "What color should clearance lights be on the rear of the vehicle?",
+      "choices": [
+        "Amber",
+        "White",
+        "Red",
+        "Yellow"
+      ],
+      "correct": 2,
+      "explanation": "Clearance lights should be red on the rear and amber elsewhere on the vehicle."
+    },
+    {
+      "id": "vi18",
+      "question": "What color should reflectors be on the rear of the vehicle?",
+      "choices": [
+        "Amber",
+        "White",
+        "Red",
+        "Clear"
+      ],
+      "correct": 2,
+      "explanation": "Reflectors should be red on the rear and amber elsewhere on the vehicle."
+    },
+    {
+      "id": "vi19",
+      "question": "When inspecting the steering linkage, what should you check?",
+      "choices": [
+        "Steering wheel free play and tilt",
+        "Links, arms, and joints for wear or looseness",
+        "Power steering fluid level and color",
+        "Steering column mounting bolts only"
+      ],
+      "correct": 1,
+      "explanation": "Check that connecting links, arms, and rods are not worn or cracked. Joints and sockets should not be worn or loose, with no missing nuts, bolts, or cotter keys."
+    },
+    {
+      "id": "vi20",
+      "question": "What should you look for when inspecting leaf springs?",
+      "choices": [
+        "Missing, shifted, cracked, or broken springs",
+        "Only springs that are visibly broken",
+        "Rust and corrosion on spring mounts",
+        "Number of leaves compared to other axles"
+      ],
+      "correct": 0,
+      "explanation": "Look for missing, shifted, cracked, or broken leaf springs during the suspension inspection."
+    },
+    {
+      "id": "vi21",
+      "question": "What are lug nuts signs of looseness?",
+      "choices": [
+        "Shiny paint around the hub",
+        "Rust trails or shiny threads",
+        "A clean and polished look",
+        "Grease around the lug area"
+      ],
+      "correct": 1,
+      "explanation": "Signs of loose lug nuts include rust trails or shiny threads. All lug nuts must be present and free of cracks and distortions."
+    },
+    {
+      "id": "vi22",
+      "question": "What should you check on the fifth wheel skid plate?",
+      "choices": [
+        "Wear patterns and surface rust",
+        "Proper lubrication and secure mounting",
+        "Alignment with the trailer frame",
+        "That it is clean and free of dirt"
+      ],
+      "correct": 1,
+      "explanation": "Check that the fifth wheel skid plate has proper lubrication and is securely mounted with all bolts and pins secure."
+    },
+    {
+      "id": "vi23",
+      "question": "When checking the coupling, what should you verify about the locking jaws?",
+      "choices": [
+        "They are painted and rust-free",
+        "They are closed around the kingpin",
+        "They are slightly open for flex",
+        "They are greased and lubricated"
+      ],
+      "correct": 1,
+      "explanation": "Look into the fifth wheel gap and check that locking jaws are fully closed around the kingpin."
+    },
+    {
+      "id": "vi24",
+      "question": "What should be checked regarding the trailer and fifth wheel connection?",
+      "choices": [
+        "There should be a small gap for flexibility",
+        "The trailer should sit flat with no gap",
+        "A slight gap is normal and acceptable",
+        "The gap varies by trailer manufacturer"
+      ],
+      "correct": 1,
+      "explanation": "Check that the trailer is lying flat on the fifth wheel skid plate with no gap."
+    },
+    {
+      "id": "vi25",
+      "question": "On school buses, what additional emergency equipment must be inspected?",
+      "choices": [
+        "A spare tire and jack kit",
+        "Emergency kit and body fluid cleanup kit",
+        "An extra set of mirrors and fuses",
+        "A two-way radio and flashlight"
+      ],
+      "correct": 1,
+      "explanation": "School bus drivers must also inspect the emergency kit and body fluid cleanup kit in addition to standard emergency equipment."
+    },
+    {
+      "id": "vi26",
+      "question": "What must school bus drivers check regarding the stop arm?",
+      "choices": [
+        "That it retracts automatically when driving",
+        "That it is secure and extends fully when used",
+        "That it is the correct shade of red",
+        "That it makes an audible clicking sound"
+      ],
+      "correct": 1,
+      "explanation": "Check that the stop arm is mounted securely to the frame, check for loose fittings and damage, and verify it extends fully when operated."
+    },
+    {
+      "id": "vi27",
+      "question": "What should you verify about school bus emergency exits?",
+      "choices": [
+        "They are locked during transit at all times",
+        "They operate smoothly and warnings work",
+        "They can only be opened from the outside",
+        "They are sealed shut with no visible gaps"
+      ],
+      "correct": 1,
+      "explanation": "Demonstrate that emergency exits are not damaged, operate smoothly, close securely, and that emergency exit warning devices are working properly."
+    },
+    {
+      "id": "vi28",
+      "question": "When checking brake drums, what should you look for?",
+      "choices": [
+        "Cracks, dents, holes, and contaminants",
+        "Only visible cracks on the outer surface",
+        "Only that the drums are not discolored",
+        "That the drums spin freely by hand"
+      ],
+      "correct": 0,
+      "explanation": "Check brake drums for cracks, dents, or holes, loose or missing bolts, and contaminants such as debris or oil/grease."
+    },
+    {
+      "id": "vi29",
+      "question": "What is the correct way to check tire inflation during a pre-trip?",
+      "choices": [
+        "Kick the tires",
+        "Use a mallet",
+        "Use a tire gauge",
+        "Visual inspection only"
+      ],
+      "correct": 2,
+      "explanation": "Check for proper inflation by using a tire gauge. You will not get credit for simply kicking the tires or using a mallet."
+    },
+    {
+      "id": "vi30",
+      "question": "What happens if you fail to perform all three components of the air brake check?",
+      "choices": [
+        "You lose 5 points from your total score",
+        "You receive a warning but can continue",
+        "Automatic failure of the inspection test",
+        "You must retake only the air brake portion"
+      ],
+      "correct": 2,
+      "explanation": "Failure to perform all three components of the air brake check correctly will result in an automatic failure of the vehicle inspection test."
+    }
+  ]
+}

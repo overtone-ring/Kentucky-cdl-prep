@@ -1,0 +1,307 @@
+{
+  "name": "Combination Vehicles",
+  "requiredScore": 80,
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "cv1",
+      "question": "Fully loaded rigs are how many times more likely to roll over than empty rigs?",
+      "choices": [
+        "2 times",
+        "5 times",
+        "10 times",
+        "15 times"
+      ],
+      "correct": 2,
+      "explanation": "Fully loaded rigs are ten times more likely to roll over in a crash than empty rigs because cargo raises the center of gravity."
+    },
+    {
+      "id": "cv2",
+      "question": "What two things help prevent rollover in combination vehicles?",
+      "choices": [
+        "Drive fast and keep cargo high",
+        "Keep cargo low and take turns slowly",
+        "Use the trailer hand brake in turns",
+        "Keep cargo to one side for balance"
+      ],
+      "correct": 1,
+      "explanation": "Keep cargo as close to the ground as possible and centered, and drive slowly around turns to prevent rollover."
+    },
+    {
+      "id": "cv3",
+      "question": "What is 'rearward amplification' also known as?",
+      "choices": [
+        "The jackknife effect",
+        "The off-tracking effect",
+        "The crack-the-whip effect",
+        "The trailer swing effect"
+      ],
+      "correct": 2,
+      "explanation": "Rearward amplification causes the crack-the-whip effect. Quick lane changes can cause the rear trailer to turn over."
+    },
+    {
+      "id": "cv4",
+      "question": "In triples, the rearward amplification factor is:",
+      "choices": [
+        "1.5",
+        "2.0",
+        "3.5",
+        "5.0"
+      ],
+      "correct": 2,
+      "explanation": "Triples have a rearward amplification of 3.5, meaning you can roll the last trailer 3.5 times as easily as a five-axle tractor."
+    },
+    {
+      "id": "cv5",
+      "question": "When pulling doubles, which trailer is most likely to turn over in a quick lane change?",
+      "choices": [
+        "The front trailer",
+        "The rear trailer",
+        "Both equally",
+        "Neither - doubles are stable"
+      ],
+      "correct": 1,
+      "explanation": "Due to the crack-the-whip effect (rearward amplification), the rear trailer is most likely to turn over in a quick lane change."
+    },
+    {
+      "id": "cv6",
+      "question": "What is 'off-tracking' (also called 'cheating')?",
+      "choices": [
+        "When the brakes fail on a downgrade",
+        "When rear wheels take a different path in turns",
+        "When the trailer disconnects from the tractor",
+        "When the tires lose traction on wet roads"
+      ],
+      "correct": 1,
+      "explanation": "Off-tracking is when rear wheels follow a different path than front wheels during turns. Longer vehicles off-track more."
+    },
+    {
+      "id": "cv7",
+      "question": "A 'bobtail' tractor (without trailer) compared to a fully loaded tractor-trailer:",
+      "choices": [
+        "Stops more quickly",
+        "Takes longer to stop",
+        "Stops the same",
+        "Cannot be driven"
+      ],
+      "correct": 1,
+      "explanation": "Bobtails can be very hard to stop smoothly. They take longer to stop than a tractor-semitrailer loaded to maximum gross weight."
+    },
+    {
+      "id": "cv8",
+      "question": "When should you use the trailer hand valve (trolley valve)?",
+      "choices": [
+        "For normal braking while driving",
+        "Only to test the trailer brakes",
+        "To help prevent jackknifing",
+        "For parking on steep grades"
+      ],
+      "correct": 1,
+      "explanation": "The trailer hand valve should only be used to test the trailer brakes. Using it while driving can cause the trailer to skid."
+    },
+    {
+      "id": "cv9",
+      "question": "Why should you NEVER use the trailer hand brake to straighten out a jackknifing trailer?",
+      "choices": [
+        "It does not respond fast enough to help",
+        "The trailer brakes caused the skid already",
+        "It will overheat and damage the brakes",
+        "It only functions when the vehicle is parked"
+      ],
+      "correct": 1,
+      "explanation": "Don't use the trailer hand brake to straighten a jackknife because the brakes on the trailer wheels caused the skid in the first place."
+    },
+    {
+      "id": "cv10",
+      "question": "How do you stop a trailer skid?",
+      "choices": [
+        "Apply the brakes harder to stop the skid",
+        "Release the brakes to regain traction",
+        "Turn sharply into the direction of skid",
+        "Accelerate to pull the trailer straight"
+      ],
+      "correct": 1,
+      "explanation": "To stop a trailer skid, release the brakes to get traction back. Once the trailer wheels grip the road, the trailer will straighten out."
+    },
+    {
+      "id": "cv11",
+      "question": "The trailer air supply control on newer vehicles is what shape and color?",
+      "choices": [
+        "Round and yellow",
+        "Square and blue",
+        "Red eight-sided knob",
+        "Diamond-shaped and green"
+      ],
+      "correct": 2,
+      "explanation": "The trailer air supply control on newer vehicles is a red eight-sided knob used to control the tractor protection valve."
+    },
+    {
+      "id": "cv12",
+      "question": "What are the two air lines that connect the tractor to the trailer?",
+      "choices": [
+        "Primary line and secondary line",
+        "Front line and rear line",
+        "Service line and emergency line",
+        "Supply line and return line"
+      ],
+      "correct": 2,
+      "explanation": "Every combination vehicle has two air lines: the service line (control line) and the emergency line (supply line)."
+    },
+    {
+      "id": "cv13",
+      "question": "What color are service line glad hands typically coded?",
+      "choices": [
+        "Red",
+        "Blue",
+        "Yellow",
+        "Green"
+      ],
+      "correct": 1,
+      "explanation": "Service lines are often coded blue, while emergency (supply) lines are coded red to prevent mixing them up."
+    },
+    {
+      "id": "cv14",
+      "question": "What happens if you cross the air lines when coupling?",
+      "choices": [
+        "Nothing - they work the same",
+        "The trailer brakes won't release",
+        "The tractor brakes fail",
+        "The horn won't work"
+      ],
+      "correct": 1,
+      "explanation": "If you cross air lines, air won't charge the trailer tanks and the spring brakes won't release. You could drive away without trailer brakes."
+    },
+    {
+      "id": "cv15",
+      "question": "On trailers without spring brakes (built before 1975), what should you always use when parking?",
+      "choices": [
+        "The trailer hand valve",
+        "Wheel chocks",
+        "The emergency brake only",
+        "Nothing special needed"
+      ],
+      "correct": 1,
+      "explanation": "Trailers without spring brakes need wheel chocks when parked because air can leak away leaving no brakes."
+    },
+    {
+      "id": "cv16",
+      "question": "Where are shut-off valves located on combination vehicles?",
+      "choices": [
+        "On the tractor near the air tanks",
+        "At the back of trailers used for towing",
+        "On the front of each trailer being towed",
+        "Inside the cab on the instrument panel"
+      ],
+      "correct": 1,
+      "explanation": "Shut-off valves are at the back of trailers used to tow other trailers. They permit closing air lines when another trailer isn't being towed."
+    },
+    {
+      "id": "cv17",
+      "question": "When towing multiple trailers, which shut-off valves should be closed?",
+      "choices": [
+        "All valves on every trailer",
+        "None of them should be closed",
+        "Only those at the back of the last trailer",
+        "Only the valves on the front trailer"
+      ],
+      "correct": 2,
+      "explanation": "All shut-off valves should be open except the ones at the back of the last trailer, which must be closed."
+    },
+    {
+      "id": "cv18",
+      "question": "All trailers and converter dollies built on or after what date must have ABS?",
+      "choices": [
+        "March 1, 1997",
+        "March 1, 1998",
+        "January 1, 1999",
+        "January 1, 2000"
+      ],
+      "correct": 1,
+      "explanation": "All trailers and converter dollies built on or after March 1, 1998 are required to have ABS."
+    },
+    {
+      "id": "cv19",
+      "question": "When coupling, what should the trailer height be?",
+      "choices": [
+        "Higher than the fifth wheel plate",
+        "Low enough to raise slightly on contact",
+        "Exactly level with the fifth wheel",
+        "As low as the landing gear allows"
+      ],
+      "correct": 1,
+      "explanation": "The trailer should be low enough that it is raised slightly by the tractor when backing under. Too low damages the nose; too high may not couple correctly."
+    },
+    {
+      "id": "cv20",
+      "question": "After coupling, how much space should there be between the upper and lower fifth wheel?",
+      "choices": [
+        "About 1 inch",
+        "About 2 inches",
+        "No space at all",
+        "3-4 inches"
+      ],
+      "correct": 2,
+      "explanation": "There should be no space between upper and lower fifth wheel. If there is space, the kingpin may be on top of closed jaws and the trailer could come loose."
+    },
+    {
+      "id": "cv21",
+      "question": "When inspecting the coupling, the locking jaws should be around what part of the kingpin?",
+      "choices": [
+        "The head",
+        "The shank",
+        "The base",
+        "Any part is fine"
+      ],
+      "correct": 1,
+      "explanation": "The locking jaws must be around the shank of the kingpin, not the head. If around the head, the trailer could come loose."
+    },
+    {
+      "id": "cv22",
+      "question": "Why must the fifth wheel be properly greased?",
+      "choices": [
+        "To prevent rust on the skid plate",
+        "To prevent steering problems from friction",
+        "To reduce wear on the trailer kingpin",
+        "To make coupling and uncoupling easier"
+      ],
+      "correct": 1,
+      "explanation": "Failure to keep the fifth wheel plate lubricated could cause steering problems because of friction between the tractor and trailer."
+    },
+    {
+      "id": "cv23",
+      "question": "When uncoupling, why should you lower the landing gear before disconnecting air lines?",
+      "choices": [
+        "To make the air lines easier to reach",
+        "To support the trailer before disconnecting",
+        "To relieve pressure on the fifth wheel",
+        "To allow the tractor to pull away faster"
+      ],
+      "correct": 1,
+      "explanation": "The uncoupling procedure requires lowering the landing gear before disconnecting air lines to ensure the trailer is supported. When pulling partially clear, stop with the tractor frame under the trailer in case the landing gear collapses or sinks."
+    },
+    {
+      "id": "cv24",
+      "question": "To test that air flows to all trailers, you should open the emergency line shut-off at the rear of the last trailer and:",
+      "choices": [
+        "See if lights come on",
+        "Hear air escaping",
+        "Feel for vibration",
+        "Check the gauge only"
+      ],
+      "correct": 1,
+      "explanation": "Open the emergency line shut-off valve at the rear of the last trailer. You should hear air escaping, showing the entire system is charged."
+    },
+    {
+      "id": "cv25",
+      "question": "When backing a trailer, which way do you turn the steering wheel to make the trailer go left?",
+      "choices": [
+        "Turn left (same direction as trailer)",
+        "Turn right (opposite of trailer)",
+        "Either direction works the same",
+        "Hold the wheel straight and reverse"
+      ],
+      "correct": 1,
+      "explanation": "When backing a trailer, turn the steering wheel in the opposite direction you want the trailer to go. Turn right to make trailer go left."
+    }
+  ]
+}

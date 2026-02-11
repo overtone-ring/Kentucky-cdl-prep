@@ -22,10 +22,21 @@
     };
 
     // Load questions data
+    const SECTION_FILES = [
+        'generalKnowledge', 'airBrakes', 'passenger', 'schoolBus',
+        'vehicleInspection', 'combinationVehicles', 'doublesTriples',
+        'tankVehicles', 'hazardousMaterials'
+    ];
+
     async function loadQuestions() {
         try {
-            const response = await fetch('questions.json');
-            state.questionsData = await response.json();
+            const sections = await Promise.all(
+                SECTION_FILES.map(async (name) => {
+                    const resp = await fetch(`questions/${name}.json`);
+                    return [name, await resp.json()];
+                })
+            );
+            state.questionsData = Object.fromEntries(sections);
             loadStats();
         } catch (error) {
             console.error('Error loading questions:', error);

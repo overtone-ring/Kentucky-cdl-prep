@@ -1,0 +1,607 @@
+{
+  "name": "General Knowledge",
+  "requiredScore": 80,
+  "questionCount": 50,
+  "questions": [
+    {
+      "id": "gk1",
+      "question": "At 55 mph on dry pavement with good brakes, the total stopping distance for a heavy vehicle is approximately:",
+      "choices": [
+        "200 feet",
+        "300 feet",
+        "400 feet",
+        "100 feet"
+      ],
+      "correct": 2,
+      "explanation": "At 55 mph, your vehicle will travel approximately 400 feet or more to come to a complete stop (perception + reaction + braking distance)."
+    },
+    {
+      "id": "gk2",
+      "question": "When driving, you should look at least how far ahead?",
+      "choices": [
+        "5 to 8 seconds",
+        "12 to 15 seconds",
+        "20 to 25 seconds",
+        "3 to 5 seconds"
+      ],
+      "correct": 1,
+      "explanation": "Look at least 12 to 15 seconds ahead. That means looking ahead the distance you will travel in 12 to 15 seconds."
+    },
+    {
+      "id": "gk3",
+      "question": "How far ahead does 12 to 15 seconds represent at lower speeds?",
+      "choices": [
+        "About half a block",
+        "About one block",
+        "About two blocks",
+        "About 50 feet"
+      ],
+      "correct": 1,
+      "explanation": "At lower speeds, looking 12 to 15 seconds ahead is about one block."
+    },
+    {
+      "id": "gk4",
+      "question": "If you double your speed from 20 to 40 mph, the impact in a crash will be:",
+      "choices": [
+        "2 times greater",
+        "4 times greater",
+        "8 times greater",
+        "The same"
+      ],
+      "correct": 1,
+      "explanation": "When you double your speed from 20 to 40 mph, the impact is 4 times greater."
+    },
+    {
+      "id": "gk5",
+      "question": "Hydroplaning can occur at speeds as low as:",
+      "choices": [
+        "55 mph",
+        "45 mph",
+        "30 mph",
+        "65 mph"
+      ],
+      "correct": 2,
+      "explanation": "Hydroplaning can occur at speeds as low as 30 mph if there is a lot of water."
+    },
+    {
+      "id": "gk6",
+      "question": "On a one-way or divided highway, how far from the vehicle should you place the rearmost warning device when stopped?",
+      "choices": [
+        "100 feet",
+        "200 feet",
+        "300 feet",
+        "50 feet"
+      ],
+      "correct": 1,
+      "explanation": "On a one-way or divided highway, place warning devices at 10 feet, 100 feet, and 200 feet toward approaching traffic."
+    },
+    {
+      "id": "gk7",
+      "question": "During your trip, how often should you check your cargo?",
+      "choices": [
+        "Only at the start",
+        "Every 3 hours or 150 miles",
+        "Every 6 hours or 300 miles",
+        "Only if you hear something shift"
+      ],
+      "correct": 1,
+      "explanation": "Check cargo within the first 50 miles after beginning a trip and every 150 miles or every three hours thereafter."
+    },
+    {
+      "id": "gk8",
+      "question": "At 55 mph, perception distance (the distance traveled while recognizing a hazard) is approximately:",
+      "choices": [
+        "61 feet",
+        "142 feet",
+        "216 feet",
+        "32 feet"
+      ],
+      "correct": 1,
+      "explanation": "The average perception time is 1 3/4 seconds (1.75 seconds). At 55 mph this accounts for 142 feet traveled."
+    },
+    {
+      "id": "gk9",
+      "question": "At 55 mph, reaction distance (the distance traveled while moving your foot to the brake) is approximately:",
+      "choices": [
+        "142 feet",
+        "32 feet",
+        "61 feet",
+        "216 feet"
+      ],
+      "correct": 2,
+      "explanation": "Reaction Distance is the distance traveled during reaction time (3/4 to 1 second). At 55 mph this accounts for 61 feet."
+    },
+    {
+      "id": "gk10",
+      "question": "What is the proper following distance rule for vehicles under 40 mph?",
+      "choices": [
+        "2 seconds regardless of vehicle length",
+        "1 second for every 10 feet of vehicle length",
+        "5 seconds for all vehicles",
+        "3 seconds for all vehicles"
+      ],
+      "correct": 1,
+      "explanation": "Allow at least one second for each 10 feet of vehicle length at speeds below 40 mph."
+    },
+    {
+      "id": "gk11",
+      "question": "At speeds over 40 mph, what additional following distance should you add?",
+      "choices": [
+        "No additional time needed",
+        "Add 1 second",
+        "Add 3 seconds",
+        "Double the distance"
+      ],
+      "correct": 1,
+      "explanation": "At speeds over 40 mph, you should add 1 second to your following distance."
+    },
+    {
+      "id": "gk12",
+      "question": "When should you downshift for a curve?",
+      "choices": [
+        "While in the curve",
+        "Before entering the curve",
+        "After exiting the curve",
+        "Only on wet roads"
+      ],
+      "correct": 1,
+      "explanation": "You should slow down before entering a curve. Downshift before entering the curve - never while in it."
+    },
+    {
+      "id": "gk13",
+      "question": "What is the best way to check that your service brakes are working properly?",
+      "choices": [
+        "Listen for air leaks while parked",
+        "Wait for the low air pressure warning",
+        "Move slowly and apply firm brakes to check for pulling",
+        "Pump the pedal and check for resistance"
+      ],
+      "correct": 2,
+      "explanation": "Move the vehicle forward slowly and apply the brakes firmly. Note any vehicle pulling to one side, unusual feel, or delayed stopping action."
+    },
+    {
+      "id": "gk14",
+      "question": "When testing hydraulic brakes, you should hold the brake pedal down for how long to check for leaks?",
+      "choices": [
+        "3 seconds",
+        "5 seconds",
+        "10 seconds",
+        "15 seconds"
+      ],
+      "correct": 1,
+      "explanation": "With the engine running, apply firm pressure to the brake pedal for 5 seconds. The pedal should not move."
+    },
+    {
+      "id": "gk15",
+      "question": "If you triple your speed from 20 to 60 mph, how much greater is the impact and braking distance?",
+      "choices": [
+        "3 times greater",
+        "6 times greater",
+        "9 times greater",
+        "12 times greater"
+      ],
+      "correct": 2,
+      "explanation": "Triple the speed from 20 to 60 mph and the impact and braking distance is 9 times greater."
+    },
+    {
+      "id": "gk16",
+      "question": "What is the minimum tread depth for front tires?",
+      "choices": [
+        "2/32 inch",
+        "4/32 inch",
+        "1/32 inch",
+        "6/32 inch"
+      ],
+      "correct": 1,
+      "explanation": "Front tires must have tread depth of at least 4/32 inch."
+    },
+    {
+      "id": "gk17",
+      "question": "What is the minimum tread depth for other tires?",
+      "choices": [
+        "4/32 inch",
+        "2/32 inch",
+        "1/32 inch",
+        "3/32 inch"
+      ],
+      "correct": 1,
+      "explanation": "Other tires must have tread depth of at least 2/32 inch."
+    },
+    {
+      "id": "gk18",
+      "question": "When backing a vehicle, you should:",
+      "choices": [
+        "Back quickly to get it over with",
+        "Back toward the driver's side whenever possible",
+        "Always use the passenger side for better visibility",
+        "Rely solely on mirrors"
+      ],
+      "correct": 1,
+      "explanation": "Back to the driver's side so that you can see better. Backing toward the right side is very dangerous because you can't see as well."
+    },
+    {
+      "id": "gk19",
+      "question": "Why should you avoid backing toward the passenger side?",
+      "choices": [
+        "It's easier to back toward the driver's side",
+        "You cannot see as well",
+        "The turning radius is different",
+        "It's harder on the transmission"
+      ],
+      "correct": 1,
+      "explanation": "Backing toward the right (passenger) side is very dangerous because you can't see as well."
+    },
+    {
+      "id": "gk20",
+      "question": "Which of the following is a cause of serious vehicle fires?",
+      "choices": [
+        "Electrical problems",
+        "Fuel leaks",
+        "Smoking near the vehicle",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "Vehicle fires can be caused by fuel leaks, electrical short circuits, improper use of flares, under-inflated tires, and flammable cargo. Spilled fuel, loose fuel connections, and improper fueling are common fire hazards."
+    },
+    {
+      "id": "gk21",
+      "question": "If you are driving in fog, you should use:",
+      "choices": [
+        "High beam headlights",
+        "Low beam headlights",
+        "Parking lights only",
+        "No lights"
+      ],
+      "correct": 1,
+      "explanation": "In fog, use low beams. High beams reflect off the fog and reduce visibility."
+    },
+    {
+      "id": "gk22",
+      "question": "How does wet pavement affect your stopping distance?",
+      "choices": [
+        "It can double your stopping distance",
+        "It increases stopping distance by 25%",
+        "It has little effect with good tires",
+        "It only matters at speeds over 50 mph"
+      ],
+      "correct": 0,
+      "explanation": "Wet roads can double stopping distance. Reduce speed and increase your following distance significantly on slippery surfaces."
+    },
+    {
+      "id": "gk23",
+      "question": "What is the proper way to use engine braking on a long downgrade?",
+      "choices": [
+        "Stay in high gear and brake continuously",
+        "Select a low gear and brake only when needed",
+        "Apply brakes hard at the top then coast",
+        "Alternate between high and low gears"
+      ],
+      "correct": 1,
+      "explanation": "The use of brakes on a long and/or steep downgrade is only a supplement to the braking effect of the engine."
+    },
+    {
+      "id": "gk24",
+      "question": "What is 'brake fade'?",
+      "choices": [
+        "Normal wear on brake pads over time",
+        "Loss of braking power from overheating",
+        "Moisture buildup on brake drums",
+        "Low brake fluid in the reservoir"
+      ],
+      "correct": 1,
+      "explanation": "Brake fade is caused by excessive heat from using brakes too much without relying on engine braking, causing chemical changes in brake linings and drum expansion."
+    },
+    {
+      "id": "gk25",
+      "question": "When driving in very hot weather, you should inspect your tires every:",
+      "choices": [
+        "200 miles or 4 hours",
+        "150 miles or 3 hours",
+        "100 miles or 2 hours",
+        "50 miles or 1 hour"
+      ],
+      "correct": 2,
+      "explanation": "In very hot weather, check tires every 2 hours or every 100 miles to monitor for proper inflation and overheating."
+    },
+    {
+      "id": "gk26",
+      "question": "What class CDL is required for any combination of vehicles with a GCWR of 26,001 pounds or more (if towed vehicle is over 10,000 pounds)?",
+      "choices": [
+        "Class C",
+        "Class B",
+        "Class A",
+        "No CDL required"
+      ],
+      "correct": 2,
+      "explanation": "Class A CDL is required for any combination of vehicles with a GCWR of 26,001 pounds or more, provided the GVWR of the vehicle being towed is in excess of 10,000 pounds."
+    },
+    {
+      "id": "gk27",
+      "question": "What class CDL is required for any single vehicle with a GVWR of 26,001 pounds or more?",
+      "choices": [
+        "Class A",
+        "Class B",
+        "Class C",
+        "No CDL required"
+      ],
+      "correct": 1,
+      "explanation": "Class B CDL is required for any single vehicle with a GVWR of 26,001 pounds or more."
+    },
+    {
+      "id": "gk28",
+      "question": "To pass the CDL knowledge test, you must answer what percentage of questions correctly?",
+      "choices": [
+        "70 percent",
+        "75 percent",
+        "80 percent",
+        "90 percent"
+      ],
+      "correct": 2,
+      "explanation": "For each test, 80 percent of the questions must be answered correctly to pass."
+    },
+    {
+      "id": "gk29",
+      "question": "How long must you hold a CDL instruction permit before taking the skills test?",
+      "choices": [
+        "7 days",
+        "14 days",
+        "30 days",
+        "No waiting period"
+      ],
+      "correct": 1,
+      "explanation": "The permit must be held for 14 days prior to a skills test being administered."
+    },
+    {
+      "id": "gk30",
+      "question": "What BAC level will result in being put out of service for 24 hours when driving a commercial vehicle?",
+      "choices": [
+        ".04% or higher",
+        ".01% to .039%",
+        ".08% or higher",
+        ".02% or higher"
+      ],
+      "correct": 1,
+      "explanation": "If a driver tests from .01% BAC to .039% BAC, that driver shall be put out of service for 24 hours."
+    },
+    {
+      "id": "gk31",
+      "question": "What BAC level results in disqualification from commercial driving for one year (first offense)?",
+      "choices": [
+        ".02% or higher",
+        ".04% or higher",
+        ".08% or higher",
+        ".10% or higher"
+      ],
+      "correct": 1,
+      "explanation": "Drivers testing at .04% BAC or higher will be disqualified for one year."
+    },
+    {
+      "id": "gk32",
+      "question": "A second conviction for DUI while driving a commercial motor vehicle results in:",
+      "choices": [
+        "1 year disqualification",
+        "3 year disqualification",
+        "5 year disqualification",
+        "Lifetime disqualification"
+      ],
+      "correct": 3,
+      "explanation": "A second conviction of driving a commercial motor vehicle under the influence of alcohol or other drugs results in lifetime disqualification."
+    },
+    {
+      "id": "gk33",
+      "question": "How many serious traffic violations in three years results in a 60-day disqualification?",
+      "choices": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correct": 1,
+      "explanation": "Two serious moving violations in three years results in 60 days disqualification."
+    },
+    {
+      "id": "gk34",
+      "question": "How many serious traffic violations in three years results in a 120-day disqualification?",
+      "choices": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correct": 2,
+      "explanation": "Three serious moving violations in three years results in 120 days disqualification."
+    },
+    {
+      "id": "gk35",
+      "question": "Which is considered a 'serious violation'?",
+      "choices": [
+        "Speeding 5 mph over the limit",
+        "Speeding 15 mph or more over limit",
+        "Failure to use a turn signal",
+        "Driving with expired registration"
+      ],
+      "correct": 1,
+      "explanation": "A serious violation includes speeding 15 mph or more, improper lane usage/changes, following too closely, reckless driving."
+    },
+    {
+      "id": "gk36",
+      "question": "When should you use your horn?",
+      "choices": [
+        "To alert drivers who are moving too slowly",
+        "To let others know you are there when needed",
+        "Frequently to keep other drivers alert",
+        "Only during emergency situations"
+      ],
+      "correct": 1,
+      "explanation": "Use your horn to let others know you're there when needed, but avoid using it unnecessarily."
+    },
+    {
+      "id": "gk37",
+      "question": "What is the minimum number of tie-downs required for any flatbed load?",
+      "choices": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correct": 1,
+      "explanation": "There should be at least one tie-down for each 10 feet of cargo, with a minimum of two tie-downs."
+    },
+    {
+      "id": "gk38",
+      "question": "What is the minimum number of tie-downs for a 20-foot load?",
+      "choices": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correct": 1,
+      "explanation": "A 20-foot load requires a minimum of two tie-downs (one for each 10 feet)."
+    },
+    {
+      "id": "gk39",
+      "question": "Cargo should be checked within the first how many miles of starting a trip?",
+      "choices": [
+        "25 miles",
+        "50 miles",
+        "100 miles",
+        "150 miles"
+      ],
+      "correct": 1,
+      "explanation": "Check cargo within the first 50 miles after beginning a trip."
+    },
+    {
+      "id": "gk40",
+      "question": "What are the two basic reasons for covering cargo on an open bed?",
+      "choices": [
+        "To reduce wind resistance and improve fuel economy",
+        "To protect people from spills and protect cargo from weather",
+        "To prevent theft and keep cargo out of sight",
+        "To comply with DOT markings and labeling rules"
+      ],
+      "correct": 1,
+      "explanation": "There are two basic reasons for covering cargo: to protect people from spilled cargo, and to protect the cargo from weather."
+    },
+    {
+      "id": "gk41",
+      "question": "What should you do before transporting a sealed load?",
+      "choices": [
+        "Nothing special is required for sealed loads",
+        "Check that you do not exceed weight limits",
+        "Open the seal and inspect all the cargo",
+        "Contact the shipper for loading instructions"
+      ],
+      "correct": 1,
+      "explanation": "Before transporting a sealed load, check that you don't exceed weight limits."
+    },
+    {
+      "id": "gk42",
+      "question": "How much weight can a cargo securement system be required to withstand?",
+      "choices": [
+        "Half the cargo weight",
+        "The full cargo weight",
+        "1.5 times the cargo weight",
+        "Twice the cargo weight"
+      ],
+      "correct": 0,
+      "explanation": "Federal regulations require the aggregate working load limit of any securement system must be at least one-half (50%) of the weight of the cargo being secured."
+    },
+    {
+      "id": "gk43",
+      "question": "The most important reason for doing a vehicle inspection is:",
+      "choices": [
+        "To avoid getting a ticket",
+        "To find problems that could cause a crash",
+        "To save money on repairs",
+        "To meet insurance requirements"
+      ],
+      "correct": 1,
+      "explanation": "The most important reason for a vehicle inspection is safety - to find problems before they cause a crash or breakdown."
+    },
+    {
+      "id": "gk44",
+      "question": "What are three things you check during a pre-trip inspection of the engine compartment?",
+      "choices": [
+        "Radio, heater, air freshener",
+        "Oil level, coolant level, power steering fluid",
+        "Seat position, mirror adjustment, seatbelt",
+        "Tire pressure, tire tread, wheel nuts"
+      ],
+      "correct": 1,
+      "explanation": "In the engine compartment, check oil level, coolant level, and power steering fluid among other things."
+    },
+    {
+      "id": "gk45",
+      "question": "What lights must you check during a vehicle inspection?",
+      "choices": [
+        "Dome lights and interior lights",
+        "All lights and reflectors",
+        "Emergency flashers and brake lights",
+        "Turn signals and marker lights"
+      ],
+      "correct": 1,
+      "explanation": "Check headlights, tail lights, brake lights, turn signals, clearance lights, and all reflectors."
+    },
+    {
+      "id": "gk46",
+      "question": "When is it acceptable to exceed the speed limit?",
+      "choices": [
+        "When passing another vehicle",
+        "Never",
+        "When traffic flow requires it",
+        "During emergencies only"
+      ],
+      "correct": 1,
+      "explanation": "Never exceed the speed limit. Obey speed limits - they are set for ideal conditions."
+    },
+    {
+      "id": "gk47",
+      "question": "What color are the parking brake controls on newer vehicles with air brakes?",
+      "choices": [
+        "Red",
+        "Blue",
+        "Yellow",
+        "Green"
+      ],
+      "correct": 2,
+      "explanation": "In newer vehicles with air brakes, the parking brakes are controlled using a diamond-shaped, yellow, push-pull control knob."
+    },
+    {
+      "id": "gk48",
+      "question": "When must you use your headlights?",
+      "choices": [
+        "Only at night on unlit roads",
+        "At night and in poor visibility",
+        "Only during rain or snow",
+        "Only in construction zones"
+      ],
+      "correct": 1,
+      "explanation": "Use headlights at night and any time visibility is reduced (fog, rain, snow). Low beams let you see about 250 feet ahead; high beams about 350-500 feet."
+    },
+    {
+      "id": "gk49",
+      "question": "What does GCWR stand for?",
+      "choices": [
+        "Gross Cargo Weight Rating",
+        "Gross Combination Weight Rating",
+        "General Commercial Weight Requirement",
+        "Government Commercial Weight Regulation"
+      ],
+      "correct": 1,
+      "explanation": "GCWR stands for Gross Combination Weight Rating - the value specified by the manufacturer as the loaded weight of a combination vehicle."
+    },
+    {
+      "id": "gk50",
+      "question": "What does GVWR stand for?",
+      "choices": [
+        "Gross Vehicle Weight Rating",
+        "General Vehicle Weight Requirement",
+        "Gross Volume Weight Rating",
+        "Government Vehicle Weight Regulation"
+      ],
+      "correct": 0,
+      "explanation": "GVWR stands for Gross Vehicle Weight Rating - the value specified by the manufacturer as the loaded weight of a single vehicle."
+    }
+  ]
+}

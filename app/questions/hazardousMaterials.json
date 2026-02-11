@@ -1,0 +1,367 @@
+{
+  "name": "Hazardous Materials",
+  "requiredScore": 80,
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "hm1",
+      "question": "How many hazard classes are there for hazardous materials?",
+      "choices": [
+        "6",
+        "7",
+        "9",
+        "12"
+      ],
+      "correct": 2,
+      "explanation": "There are 9 hazard classes. They include explosives, gases, flammable liquids, flammable solids, oxidizers, poisons, radioactive, corrosives, and miscellaneous."
+    },
+    {
+      "id": "hm2",
+      "question": "Hazardous materials shipping papers must be:",
+      "choices": [
+        "Locked in the glove compartment",
+        "Stored inside the trailer with cargo",
+        "Within reach or in the door pouch",
+        "Mailed to the destination ahead of time"
+      ],
+      "correct": 2,
+      "explanation": "Shipping papers must be within reach while driving (on driver's seat when out of vehicle) or in the driver's door pouch."
+    },
+    {
+      "id": "hm3",
+      "question": "Table 1 hazardous materials require placards for:",
+      "choices": [
+        "1,001 pounds or more",
+        "Any amount",
+        "5,000 pounds or more",
+        "Only full truckloads"
+      ],
+      "correct": 1,
+      "explanation": "Table 1 materials (like explosives and poison gases) require placards for ANY amount transported."
+    },
+    {
+      "id": "hm4",
+      "question": "Table 2 hazardous materials require placards when shipping:",
+      "choices": [
+        "Any amount",
+        "1,001 pounds or more",
+        "100 pounds or more",
+        "10,000 pounds or more"
+      ],
+      "correct": 1,
+      "explanation": "Table 2 materials require placards only when you haul 1,001 pounds or more total of all Table 2 materials."
+    },
+    {
+      "id": "hm5",
+      "question": "When parked with explosives, you must be within how many feet of the vehicle?",
+      "choices": [
+        "25 feet",
+        "50 feet",
+        "100 feet",
+        "500 feet"
+      ],
+      "correct": 2,
+      "explanation": "The vehicle must be attended at all times when carrying Division 1.1, 1.2, or 1.3 explosives. The attendant must be within 100 feet and have clear view of the vehicle."
+    },
+    {
+      "id": "hm6",
+      "question": "You must stop your vehicle carrying hazardous materials how far from railroad tracks?",
+      "choices": [
+        "10-25 feet",
+        "15-50 feet",
+        "25-75 feet",
+        "50-100 feet"
+      ],
+      "correct": 1,
+      "explanation": "Stop 15 to 50 feet before railroad crossings when carrying hazardous materials. Look and listen both ways before crossing."
+    },
+    {
+      "id": "hm7",
+      "question": "A vehicle carrying explosives must not be parked within what distance of a fire?",
+      "choices": [
+        "100 feet",
+        "200 feet",
+        "300 feet",
+        "500 feet"
+      ],
+      "correct": 2,
+      "explanation": "Never park within 300 feet of a fire, or any open flame, when carrying explosives."
+    },
+    {
+      "id": "hm8",
+      "question": "The minimum fire extinguisher rating required for HazMat vehicles is:",
+      "choices": [
+        "5 B:C",
+        "10 B:C",
+        "20 B:C",
+        "30 B:C"
+      ],
+      "correct": 1,
+      "explanation": "Hazmat vehicles must carry a fire extinguisher rated at least 10 B:C."
+    },
+    {
+      "id": "hm9",
+      "question": "No one may smoke within how many feet of a vehicle carrying explosives?",
+      "choices": [
+        "10 feet",
+        "25 feet",
+        "50 feet",
+        "100 feet"
+      ],
+      "correct": 1,
+      "explanation": "No smoking within 25 feet of any vehicle carrying explosives. This applies to loading, unloading, and when parked."
+    },
+    {
+      "id": "hm10",
+      "question": "When transporting Division 1.1 explosives through a tunnel, you must:",
+      "choices": [
+        "Speed up to exit the tunnel faster",
+        "Activate your four-way hazard lights",
+        "Avoid tunnels if other routes exist",
+        "Close all windows and vents tightly"
+      ],
+      "correct": 2,
+      "explanation": "Avoid tunnels, bridges, and narrow roads if other routes are available when carrying explosives. If you must use them, reduce speed."
+    },
+    {
+      "id": "hm11",
+      "question": "Placards must be placed:",
+      "choices": [
+        "On the rear of the vehicle only",
+        "On the front and rear only",
+        "On all four sides of the vehicle",
+        "Anywhere visible to other drivers"
+      ],
+      "correct": 2,
+      "explanation": "When required, placards must be placed on all four sides of the vehicle - front, rear, and both sides."
+    },
+    {
+      "id": "hm12",
+      "question": "Who is responsible for placarding a vehicle?",
+      "choices": [
+        "The shipper handles everything",
+        "The driver obtains and places them",
+        "The shipper provides them, driver places them",
+        "The DOT inspects and assigns them"
+      ],
+      "correct": 2,
+      "explanation": "The shipper supplies the required placards, but the driver is responsible for attaching them to the vehicle. You may only move an improperly placarded vehicle in an emergency to protect life or property."
+    },
+    {
+      "id": "hm13",
+      "question": "Which shipping paper entry indicates hazardous materials?",
+      "choices": [
+        "An 'X' or 'RQ' in the HM column",
+        "The color of the paper",
+        "The size of the font",
+        "The shipper's name"
+      ],
+      "correct": 0,
+      "explanation": "An 'X' or 'RQ' (Reportable Quantity) in the HM column indicates hazardous materials. HM items may also be highlighted or listed first."
+    },
+    {
+      "id": "hm14",
+      "question": "The shipper's certification on hazardous materials shipping papers indicates that:",
+      "choices": [
+        "The driver holds a valid CDL with endorsement",
+        "The materials are properly packaged and labeled",
+        "The vehicle has the required insurance coverage",
+        "The route has been approved by the DOT"
+      ],
+      "correct": 1,
+      "explanation": "The shipper's certification indicates that the hazardous materials have been properly classified, packaged, labeled, and are in proper condition for transport."
+    },
+    {
+      "id": "hm15",
+      "question": "You may not park a vehicle carrying hazardous materials within how many feet of the roadway?",
+      "choices": [
+        "3 feet",
+        "5 feet",
+        "10 feet",
+        "15 feet"
+      ],
+      "correct": 1,
+      "explanation": "Never park a hazmat vehicle within 5 feet of the traveled portion of the roadway except for brief necessary stops."
+    },
+    {
+      "id": "hm16",
+      "question": "How often should you check your cargo securement, including hazmat loads?",
+      "choices": [
+        "Every 50 miles or every hour of driving",
+        "Every 100 miles or every 2 hours of driving",
+        "First 50 miles, then every 150 miles or 3 hours",
+        "At the beginning and end of the trip only"
+      ],
+      "correct": 2,
+      "explanation": "Cargo securement rules require checking your load within the first 50 miles and every 150 miles or 3 hours (whichever comes first). For hazmat, also check tires at the beginning of each trip and each time the vehicle is parked."
+    },
+    {
+      "id": "hm17",
+      "question": "What is a Class 1 hazardous material?",
+      "choices": [
+        "Compressed gases",
+        "Explosives",
+        "Flammable liquids",
+        "Corrosive materials"
+      ],
+      "correct": 1,
+      "explanation": "Class 1 hazardous materials are explosives. They are divided into several divisions based on their level of danger."
+    },
+    {
+      "id": "hm18",
+      "question": "What is a Class 2 hazardous material?",
+      "choices": [
+        "Explosives",
+        "Gases",
+        "Flammable solids",
+        "Corrosives"
+      ],
+      "correct": 1,
+      "explanation": "Class 2 hazardous materials are gases. This includes flammable gases, non-flammable gases, and poison gases."
+    },
+    {
+      "id": "hm19",
+      "question": "What is a Class 3 hazardous material?",
+      "choices": [
+        "Oxidizers",
+        "Poison gas",
+        "Flammable liquids",
+        "Radioactive materials"
+      ],
+      "correct": 2,
+      "explanation": "Class 3 hazardous materials are flammable liquids. This includes gasoline, diesel fuel, and many other liquids."
+    },
+    {
+      "id": "hm20",
+      "question": "What is a Class 8 hazardous material?",
+      "choices": [
+        "Poison",
+        "Oxidizer",
+        "Corrosive",
+        "Radioactive"
+      ],
+      "correct": 2,
+      "explanation": "Class 8 hazardous materials are corrosives. These are substances that can eat through metal or cause severe burns to skin."
+    },
+    {
+      "id": "hm21",
+      "question": "The Emergency Response Guidebook (ERG) helps you:",
+      "choices": [
+        "Find the best route",
+        "Respond to hazmat incidents",
+        "Calculate fuel usage",
+        "Check vehicle weight"
+      ],
+      "correct": 1,
+      "explanation": "The ERG helps first responders and drivers identify hazardous materials and take appropriate protective actions in an emergency."
+    },
+    {
+      "id": "hm22",
+      "question": "Hazmat labels are what shape?",
+      "choices": [
+        "Square",
+        "Diamond",
+        "Circle",
+        "Rectangle"
+      ],
+      "correct": 1,
+      "explanation": "Hazmat labels are diamond-shaped (square turned 45 degrees on point). They are placed on packages."
+    },
+    {
+      "id": "hm23",
+      "question": "What is the minimum placard size?",
+      "choices": [
+        "6 inches on each side",
+        "8 inches on each side",
+        "About 10 inches on each side",
+        "14 inches on each side"
+      ],
+      "correct": 2,
+      "explanation": "Placards must be at least 250 mm (9.84 inches, approximately 10 inches) on each side, displayed in a diamond orientation."
+    },
+    {
+      "id": "hm24",
+      "question": "If hazardous material is leaking from your vehicle, you should NOT:",
+      "choices": [
+        "Park the vehicle",
+        "Stay with the vehicle",
+        "Move the vehicle",
+        "Set out warning devices"
+      ],
+      "correct": 2,
+      "explanation": "If hazardous materials are leaking, do not move the vehicle any more than necessary. Moving could spread contamination."
+    },
+    {
+      "id": "hm25",
+      "question": "Before transporting hazardous materials, you must have:",
+      "choices": [
+        "A CDL without any endorsement",
+        "A CDL with a HazMat endorsement",
+        "Any valid state driver's license",
+        "A CDL with a tanker endorsement"
+      ],
+      "correct": 1,
+      "explanation": "You must have a CDL with a HazMat endorsement to transport hazardous materials that require placarding. This requires passing a written test and background check."
+    },
+    {
+      "id": "hm26",
+      "question": "The total transport index of all radioactive (Class 7) packages in a single vehicle must not exceed:",
+      "choices": [
+        "25",
+        "50",
+        "75",
+        "100"
+      ],
+      "correct": 1,
+      "explanation": "The total transport index of all Class 7 (Radioactive) packages in a single vehicle must not exceed 50. The transport index controls how close packages can be to people, animals, and unexposed film."
+    },
+    {
+      "id": "hm27",
+      "question": "Which of the following cargo combinations is forbidden in the same vehicle?",
+      "choices": [
+        "Corrosives loaded with flammable solids",
+        "Poison materials loaded with foodstuffs",
+        "Oxidizers loaded with compressed gases",
+        "Explosives loaded with blasting caps"
+      ],
+      "correct": 1,
+      "explanation": "Poison materials must never be loaded in the same vehicle as foodstuffs. The segregation rules prohibit certain hazardous materials from being transported together."
+    },
+    {
+      "id": "hm28",
+      "question": "The person watching a cargo tank being loaded or unloaded with hazmat must be within:",
+      "choices": [
+        "10 feet of the tank",
+        "25 feet of the tank",
+        "50 feet of the tank",
+        "100 feet of the tank"
+      ],
+      "correct": 1,
+      "explanation": "A qualified person must always be watching during loading/unloading of a hazmat cargo tank. They must be within 25 feet, be alert, have a clear view, know the emergency procedures, and be able to move the tank if needed."
+    },
+    {
+      "id": "hm29",
+      "question": "When loading hazardous materials, you should keep them:",
+      "choices": [
+        "Near the rear doors for quick access",
+        "Away from any heat sources",
+        "On the driver's side of the trailer",
+        "Above non-hazardous cargo items"
+      ],
+      "correct": 1,
+      "explanation": "Many hazardous products become more dangerous when exposed to heat. Always load hazardous materials away from heat sources."
+    },
+    {
+      "id": "hm30",
+      "question": "A proper hazmat shipping paper description must include:",
+      "choices": [
+        "Driver CDL number, state, and expiration date",
+        "Proper shipping name, hazard class, and ID number",
+        "Vehicle license plate, VIN, and inspection date",
+        "Destination address, delivery time, and route"
+      ],
+      "correct": 1,
+      "explanation": "Shipping papers must contain the proper shipping name, hazard class, ID number, and packing group for each hazardous material. The shipper's name and emergency contact must also be included."
+    }
+  ]
+}

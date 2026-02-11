@@ -1,0 +1,247 @@
+{
+  "name": "Doubles/Triples",
+  "requiredScore": 80,
+  "questionCount": 20,
+  "questions": [
+    {
+      "id": "dt1",
+      "question": "When coupling doubles, which trailer should be positioned first (closest to the tractor)?",
+      "choices": [
+        "The lighter trailer",
+        "The heavier trailer",
+        "The shorter trailer",
+        "It doesn't matter"
+      ],
+      "correct": 1,
+      "explanation": "The heavier trailer should be positioned closest to the tractor. This improves stability and handling of the combination."
+    },
+    {
+      "id": "dt2",
+      "question": "Converter dollies built after March 1, 1998 are required to have:",
+      "choices": [
+        "Electric braking systems",
+        "Antilock braking systems",
+        "Air ride suspension",
+        "Dual tire assemblies"
+      ],
+      "correct": 1,
+      "explanation": "Converter dollies built on or after March 1, 1998 are required to have ABS. Look for the yellow ABS malfunction lamp on the left side."
+    },
+    {
+      "id": "dt3",
+      "question": "On most converter dollies, the ABS warning lamp is located:",
+      "choices": [
+        "On the tractor dashboard",
+        "On the left side of the dolly",
+        "On the rear of the dolly frame",
+        "Inside the nearest trailer"
+      ],
+      "correct": 1,
+      "explanation": "On converter dollies, the ABS warning lamp is on the left side of the dolly."
+    },
+    {
+      "id": "dt4",
+      "question": "When inspecting doubles/triples, where should the shut-off valves be positioned?",
+      "choices": [
+        "Closed on all trailers in the set",
+        "Open on all trailers in the set",
+        "Open on all except the last trailer",
+        "Closed on only the first trailer"
+      ],
+      "correct": 2,
+      "explanation": "Shut-off valves should be open on all trailers except the last one. The valves on the rear of the last trailer should be closed."
+    },
+    {
+      "id": "dt5",
+      "question": "You should NEVER unlock the pintle hook with the dolly still under a trailer because:",
+      "choices": [
+        "It damages the pintle hook",
+        "The dolly tow bar may fly up",
+        "It's harder to reconnect",
+        "The brakes may fail"
+      ],
+      "correct": 1,
+      "explanation": "Never unlock the pintle hook with the dolly still under a trailer. The dolly tow bar may fly up, potentially causing injury."
+    },
+    {
+      "id": "dt6",
+      "question": "In a set of doubles or triples, which trailer is most likely to turn over?",
+      "choices": [
+        "The first trailer",
+        "The middle trailer",
+        "The rearmost trailer",
+        "They all have equal risk"
+      ],
+      "correct": 2,
+      "explanation": "The rearmost trailer is most likely to turn over due to the 'crack-the-whip' effect during sudden steering movements."
+    },
+    {
+      "id": "dt7",
+      "question": "What is the 'crack-the-whip' effect?",
+      "choices": [
+        "When brakes lock up on slippery roads",
+        "When the rear trailer amplifies steering input",
+        "When air pressure drops in the system",
+        "When the converter dolly disconnects"
+      ],
+      "correct": 1,
+      "explanation": "The crack-the-whip effect occurs when a sudden steering movement causes the rearmost trailer to swing out much more than the tractor, potentially causing rollover."
+    },
+    {
+      "id": "dt8",
+      "question": "Compared to single trailers, doubles and triples have:",
+      "choices": [
+        "Lower rollover risk",
+        "Higher rollover risk",
+        "Same rollover risk",
+        "No rollover risk with ABS"
+      ],
+      "correct": 1,
+      "explanation": "Doubles and triples have a higher risk of rollover due to their length, multiple pivot points, and the crack-the-whip effect."
+    },
+    {
+      "id": "dt9",
+      "question": "When coupling a converter dolly to a second or third trailer, the trailer air tanks should be:",
+      "choices": [
+        "Completely empty",
+        "At minimum pressure",
+        "Fully charged",
+        "About half full"
+      ],
+      "correct": 2,
+      "explanation": "The trailer air tanks should be fully charged before coupling to ensure proper brake operation and easier coupling."
+    },
+    {
+      "id": "dt10",
+      "question": "When coupling a second trailer, after positioning the converter dolly, what is the next step?",
+      "choices": [
+        "Connect air lines and light cord",
+        "Charge the trailer air tanks",
+        "Back the converter dolly under the rear trailer",
+        "Raise the landing gear completely"
+      ],
+      "correct": 2,
+      "explanation": "After positioning the dolly in front of the second trailer, back the converter dolly under the rear trailer. Air lines and light cords are connected after the dolly is coupled."
+    },
+    {
+      "id": "dt11",
+      "question": "Before disconnecting a converter dolly, you should:",
+      "choices": [
+        "Release the air brakes",
+        "Lower the dolly landing gear",
+        "Apply spring brakes on the dolly",
+        "Disconnect the air lines first"
+      ],
+      "correct": 2,
+      "explanation": "Before disconnecting a converter dolly, apply the spring/parking brakes on the dolly to prevent it from rolling."
+    },
+    {
+      "id": "dt12",
+      "question": "When driving doubles/triples, you should look how far ahead?",
+      "choices": [
+        "Same as single vehicle",
+        "Further ahead than with singles",
+        "Closer than with singles",
+        "Only as far as the next light"
+      ],
+      "correct": 1,
+      "explanation": "Look further ahead when driving doubles or triples because it takes longer to stop and you need more time to react."
+    },
+    {
+      "id": "dt13",
+      "question": "The service line of a converter dolly is typically what color?",
+      "choices": [
+        "Red",
+        "Blue",
+        "Green",
+        "Yellow"
+      ],
+      "correct": 1,
+      "explanation": "Service lines are typically blue. The emergency/supply line is typically red."
+    },
+    {
+      "id": "dt14",
+      "question": "When uncoupling the rear trailer in a set of doubles, you should:",
+      "choices": [
+        "Disconnect the air lines and pull away",
+        "Disconnect the converter dolly first",
+        "Lower the landing gear before anything else",
+        "Release the parking brakes and pull forward"
+      ],
+      "correct": 2,
+      "explanation": "Lower the landing gear before disconnecting any lines to support the trailer. This prevents the trailer from dropping."
+    },
+    {
+      "id": "dt15",
+      "question": "To prevent rollover when driving doubles/triples, you should:",
+      "choices": [
+        "Speed up through curves for stability",
+        "Make quick lane changes when needed",
+        "Keep cargo low and take curves slowly",
+        "Brake hard entering curves to slow down"
+      ],
+      "correct": 2,
+      "explanation": "Keep cargo low and drive slowly around curves. Avoid quick lane changes and sudden steering movements to prevent the crack-the-whip effect."
+    },
+    {
+      "id": "dt16",
+      "question": "The safety catch for the pintle hook should be:",
+      "choices": [
+        "Left open for quick release",
+        "Closed and latched",
+        "Removed for doubles",
+        "Only used in bad weather"
+      ],
+      "correct": 1,
+      "explanation": "The safety catch for the pintle hook must be closed and latched to prevent accidental uncoupling."
+    },
+    {
+      "id": "dt17",
+      "question": "When checking the converter dolly air tank drain valve, you should:",
+      "choices": [
+        "Make sure it's open",
+        "Make sure it's closed",
+        "Remove it completely",
+        "Leave it dripping"
+      ],
+      "correct": 1,
+      "explanation": "The air tank drain valve should be closed. An open valve would let air escape and could cause brake failure."
+    },
+    {
+      "id": "dt18",
+      "question": "What should you check on the pintle hook during your pre-trip inspection?",
+      "choices": [
+        "That it is freshly painted and visible",
+        "That the latch is secure and hook is intact",
+        "That it swivels and moves freely",
+        "That it is connected to the dolly frame"
+      ],
+      "correct": 1,
+      "explanation": "Check that the pintle hook is not cracked or broken, that the safety latch is in place, and that it's properly secured."
+    },
+    {
+      "id": "dt19",
+      "question": "Following distance for doubles/triples should be:",
+      "choices": [
+        "The same as for singles",
+        "Less than for singles",
+        "Greater than for singles",
+        "Only increased in bad weather"
+      ],
+      "correct": 2,
+      "explanation": "Following distance should be greater for doubles/triples because they take longer to stop and require more room for maneuvering."
+    },
+    {
+      "id": "dt20",
+      "question": "When you make a sharp turn with doubles/triples, what happens to the rear trailer?",
+      "choices": [
+        "It follows the same path as the tractor",
+        "It cuts the corner more than the tractor",
+        "It swings wider than the tractor does",
+        "It straightens out and goes straight"
+      ],
+      "correct": 1,
+      "explanation": "The rear trailer cuts the corner more sharply (off-tracking). You must make wider turns to compensate for this."
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "name": "Air Brakes",
+  "requiredScore": 80,
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "ab1",
+      "question": "The air compressor governor cut-out is typically at what pressure?",
+      "choices": [
+        "100 psi",
+        "125 psi",
+        "150 psi",
+        "80 psi"
+      ],
+      "correct": 1,
+      "explanation": "When air tank pressure rises to the 'cut-out' level (around 125 psi), the governor stops the compressor from pumping air."
+    },
+    {
+      "id": "ab2",
+      "question": "The air compressor governor cut-in is typically at what pressure?",
+      "choices": [
+        "125 psi",
+        "100 psi",
+        "55 psi",
+        "80 psi"
+      ],
+      "correct": 1,
+      "explanation": "When the tank pressure falls to the 'cut-in' pressure (around 100 psi), the governor allows the compressor to start pumping again."
+    },
+    {
+      "id": "ab3",
+      "question": "At what pressure does the safety relief valve typically open?",
+      "choices": [
+        "100 psi",
+        "125 psi",
+        "150 psi",
+        "175 psi"
+      ],
+      "correct": 2,
+      "explanation": "The safety valve is usually set to open at 150 psi to protect the tank and system from too much pressure."
+    },
+    {
+      "id": "ab4",
+      "question": "The low air pressure warning signal must come on before pressure drops below:",
+      "choices": [
+        "100 psi",
+        "80 psi",
+        "55 psi",
+        "40 psi"
+      ],
+      "correct": 2,
+      "explanation": "A warning signal you can see must come on before the air pressure in the tanks falls below 55 psi."
+    },
+    {
+      "id": "ab5",
+      "question": "Spring brakes on trucks and tractors typically come fully on when air pressure drops to:",
+      "choices": [
+        "55 to 75 psi",
+        "20 to 45 psi",
+        "60 to 80 psi",
+        "5 to 15 psi"
+      ],
+      "correct": 1,
+      "explanation": "Tractor and straight truck spring brakes will come fully on when air pressure drops to a range of 20 to 45 psi (typically 20 to 30 psi)."
+    },
+    {
+      "id": "ab6",
+      "question": "What is the maximum air leakage rate for a single vehicle with the parking brake released?",
+      "choices": [
+        "1 psi in one minute",
+        "2 psi in one minute",
+        "3 psi in one minute",
+        "4 psi in one minute"
+      ],
+      "correct": 1,
+      "explanation": "The loss rate should be less than two psi in one minute for single vehicles."
+    },
+    {
+      "id": "ab7",
+      "question": "What is the maximum air leakage rate for a combination vehicle with the parking brake released?",
+      "choices": [
+        "2 psi in one minute",
+        "3 psi in one minute",
+        "4 psi in one minute",
+        "5 psi in one minute"
+      ],
+      "correct": 1,
+      "explanation": "The loss rate should be less than three psi in one minute for combination vehicles."
+    },
+    {
+      "id": "ab8",
+      "question": "What is the maximum air leakage rate for a single vehicle with the brake pedal applied?",
+      "choices": [
+        "2 psi in one minute",
+        "3 psi in one minute",
+        "4 psi in one minute",
+        "5 psi in one minute"
+      ],
+      "correct": 1,
+      "explanation": "With the brake applied, air pressure should not drop more than three pounds in one minute for single vehicles."
+    },
+    {
+      "id": "ab9",
+      "question": "What is the maximum air leakage rate for a combination vehicle with the brake pedal applied?",
+      "choices": [
+        "3 psi in one minute",
+        "4 psi in one minute",
+        "5 psi in one minute",
+        "6 psi in one minute"
+      ],
+      "correct": 1,
+      "explanation": "With the brake applied, air pressure should not drop more than four pounds in one minute for combination vehicles."
+    },
+    {
+      "id": "ab10",
+      "question": "Air brake lag distance at 55 mph adds approximately how many feet to stopping distance?",
+      "choices": [
+        "10 feet",
+        "20 feet",
+        "32 feet",
+        "50 feet"
+      ],
+      "correct": 2,
+      "explanation": "The air brake lag distance at 55 mph on dry pavement adds about 32 feet."
+    },
+    {
+      "id": "ab11",
+      "question": "At 55 mph on dry pavement, the total stopping distance for a vehicle with air brakes is approximately:",
+      "choices": [
+        "300 feet",
+        "400 feet",
+        "450 feet",
+        "200 feet"
+      ],
+      "correct": 2,
+      "explanation": "At 55 mph for an average driver under good traction and brake conditions, the total stopping distance is approximately 450 feet or more (due to air brake lag adding about 32 feet beyond hydraulic brakes)."
+    },
+    {
+      "id": "ab12",
+      "question": "What are the three braking systems in air brakes?",
+      "choices": [
+        "Primary, secondary, and auxiliary",
+        "Service, parking, and emergency",
+        "Front, rear, and trailer",
+        "Manual, automatic, and hydraulic"
+      ],
+      "correct": 1,
+      "explanation": "Air brakes are really three different braking systems: service brake, parking brake, and emergency brake."
+    },
+    {
+      "id": "ab13",
+      "question": "Why must air tanks be drained?",
+      "choices": [
+        "To test for air leaks",
+        "To remove water and oil buildup",
+        "To reduce excess air pressure",
+        "To prevent rust inside the tanks"
+      ],
+      "correct": 1,
+      "explanation": "Compressed air usually has some water and compressor oil in it, which can cause brake failure (water can freeze in cold weather)."
+    },
+    {
+      "id": "ab14",
+      "question": "If your vehicle does not have automatic air tank drains, when should you drain the tanks?",
+      "choices": [
+        "Once a week",
+        "At the end of each day of driving",
+        "Once a month",
+        "Only during the pre-trip inspection"
+      ],
+      "correct": 1,
+      "explanation": "If your vehicle doesn't have automatic drains, drain your air tanks at the end of each working day."
+    },
+    {
+      "id": "ab15",
+      "question": "What is the most common type of foundation brake used on heavy vehicles?",
+      "choices": [
+        "Disc brakes",
+        "Wedge brakes",
+        "S-cam drum brakes",
+        "Hydraulic brakes"
+      ],
+      "correct": 2,
+      "explanation": "The most common type of foundation brake is the s-cam drum brake."
+    },
+    {
+      "id": "ab16",
+      "question": "What does ABS stand for?",
+      "choices": [
+        "Air Brake System",
+        "Antilock Braking System",
+        "Automatic Brake System",
+        "Advanced Brake Safety"
+      ],
+      "correct": 1,
+      "explanation": "ABS stands for Antilock Braking System - a computerized system that keeps your wheels from locking up during hard brake applications."
+    },
+    {
+      "id": "ab17",
+      "question": "Truck tractors with air brakes built after what date are required to have ABS?",
+      "choices": [
+        "January 1, 1996",
+        "March 1, 1997",
+        "March 1, 1998",
+        "January 1, 2000"
+      ],
+      "correct": 1,
+      "explanation": "Truck tractors with air brakes built on or after March 1, 1997 are required to be equipped with antilock brakes."
+    },
+    {
+      "id": "ab18",
+      "question": "Other air brake vehicles (trucks, buses, trailers, dollies) built after what date must have ABS?",
+      "choices": [
+        "March 1, 1997",
+        "March 1, 1998",
+        "January 1, 1999",
+        "January 1, 2000"
+      ],
+      "correct": 1,
+      "explanation": "Other air brake vehicles built on or after March 1, 1998 are required to be equipped with antilock brakes."
+    },
+    {
+      "id": "ab19",
+      "question": "What color is the ABS malfunction lamp?",
+      "choices": [
+        "Red",
+        "Yellow",
+        "Green",
+        "Blue"
+      ],
+      "correct": 1,
+      "explanation": "Vehicles with ABS have yellow malfunction lamps to tell you if something isn't working."
+    },
+    {
+      "id": "ab20",
+      "question": "When air pressure builds from 85 to 100 psi in dual air systems, it should take no longer than:",
+      "choices": [
+        "30 seconds",
+        "45 seconds",
+        "60 seconds",
+        "90 seconds"
+      ],
+      "correct": 1,
+      "explanation": "When the engine is at operating rpms, the pressure should build from 85 to 100 psi within 45 seconds in dual air systems."
+    },
+    {
+      "id": "ab21",
+      "question": "If a slack adjuster moves more than about how much when pulled, it probably needs adjustment?",
+      "choices": [
+        "Half inch",
+        "One inch",
+        "Two inches",
+        "Three inches"
+      ],
+      "correct": 1,
+      "explanation": "If a slack adjuster moves more than about one inch where the push rod attaches to it, it probably needs adjustment."
+    },
+    {
+      "id": "ab22",
+      "question": "What is the most common problem found in roadside inspections related to air brakes?",
+      "choices": [
+        "Leaking air lines",
+        "Low air pressure",
+        "Out-of-adjustment brakes",
+        "Worn brake pads"
+      ],
+      "correct": 2,
+      "explanation": "Out-of-adjustment brakes are the most common problem found in roadside inspections."
+    },
+    {
+      "id": "ab23",
+      "question": "What should you do if the low air pressure warning comes on while driving?",
+      "choices": [
+        "Continue driving but avoid hills",
+        "Pump the brakes to build pressure",
+        "Stop and safely park as soon as possible",
+        "Drive faster to build pressure"
+      ],
+      "correct": 2,
+      "explanation": "If the low air pressure warning comes on, stop and safely park your vehicle as soon as possible."
+    },
+    {
+      "id": "ab24",
+      "question": "What shape is the parking brake control knob on newer air brake vehicles?",
+      "choices": [
+        "Round",
+        "Square",
+        "Diamond-shaped",
+        "Triangle"
+      ],
+      "correct": 2,
+      "explanation": "In newer vehicles with air brakes, you put on the parking brakes using a diamond-shaped, yellow, push-pull control knob."
+    },
+    {
+      "id": "ab25",
+      "question": "How long does air brake lag take (the time for brakes to work after pushing the pedal)?",
+      "choices": [
+        "Less than a tenth of a second",
+        "One half second or more",
+        "Two to three seconds",
+        "About five seconds"
+      ],
+      "correct": 1,
+      "explanation": "With air brakes, it takes a little time (one half second or more) for the air to flow through the lines to the brakes."
+    }
+  ]
+}

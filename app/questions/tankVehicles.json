@@ -1,0 +1,247 @@
+{
+  "name": "Tank Vehicles",
+  "requiredScore": 80,
+  "questionCount": 20,
+  "questions": [
+    {
+      "id": "tv1",
+      "question": "A tank endorsement is required for vehicles that transport liquid or gaseous materials in tanks with a capacity of:",
+      "choices": [
+        "500 gallons or more per tank",
+        "1,000 gallons or more per tank",
+        "Over 119 gallons per tank and 1,000+ aggregate",
+        "Any amount of liquid or gas"
+      ],
+      "correct": 2,
+      "explanation": "A tank endorsement is required if you haul a liquid or gaseous material in a tank having an individual rated capacity of more than 119 gallons AND an aggregate rated capacity of 1,000 gallons or more."
+    },
+    {
+      "id": "tv2",
+      "question": "What is the most important thing to check for when inspecting a tank vehicle?",
+      "choices": [
+        "Tire pressure",
+        "Leaks",
+        "Paint condition",
+        "Mirror alignment"
+      ],
+      "correct": 1,
+      "explanation": "Leaks are the most important thing to check for in tank vehicles. Check around the entire tank, fittings, and valves."
+    },
+    {
+      "id": "tv3",
+      "question": "Baffled tanks help control:",
+      "choices": [
+        "Side-to-side surge",
+        "Forward and backward surge",
+        "Both side-to-side and forward/backward surge",
+        "Temperature of the liquid"
+      ],
+      "correct": 1,
+      "explanation": "Baffles help control forward and backward liquid surge. They do NOT prevent side-to-side surge."
+    },
+    {
+      "id": "tv4",
+      "question": "Why are smooth bore (unbaffled) tanks often used for food products?",
+      "choices": [
+        "They are lighter in weight",
+        "They cost less to manufacture",
+        "They are easier to clean inside",
+        "They hold a larger volume"
+      ],
+      "correct": 2,
+      "explanation": "Smooth bore tanks are easier to clean and sanitize inside, which is essential for hauling food products like milk."
+    },
+    {
+      "id": "tv5",
+      "question": "What is 'outage' in relation to tank vehicles?",
+      "choices": [
+        "A loss of engine power on grades",
+        "A failure of the air brake system",
+        "Empty space left for liquid expansion",
+        "A slow leak from a tank fitting"
+      ],
+      "correct": 2,
+      "explanation": "Outage is the empty space left in a tank to allow for liquid expansion as temperature increases. Liquids expand when heated."
+    },
+    {
+      "id": "tv6",
+      "question": "Compared to solid loads, tank vehicles have a:",
+      "choices": [
+        "Lower center of gravity",
+        "Higher center of gravity",
+        "Same center of gravity",
+        "Variable center of gravity"
+      ],
+      "correct": 1,
+      "explanation": "Tank vehicles have a high center of gravity because the liquid cargo is above the wheels, making them more prone to rollover."
+    },
+    {
+      "id": "tv7",
+      "question": "What is liquid surge?",
+      "choices": [
+        "Liquid freezing inside the tank",
+        "Liquid moving inside the tank",
+        "Pressure building up in the tank",
+        "Liquid overflowing from the tank"
+      ],
+      "correct": 1,
+      "explanation": "Liquid surge is the movement of liquid inside a partially filled tank. This surge can push the vehicle in the direction the liquid moves."
+    },
+    {
+      "id": "tv8",
+      "question": "How does liquid surge affect braking?",
+      "choices": [
+        "It helps the vehicle stop more quickly",
+        "It has no noticeable effect on braking",
+        "It can push the truck forward after stopping",
+        "It causes the brakes to lock up suddenly"
+      ],
+      "correct": 2,
+      "explanation": "When you slow down, the liquid surges forward and can push the truck forward. You may have to stop again to fully control the vehicle."
+    },
+    {
+      "id": "tv9",
+      "question": "Which takes longer to stop - an empty tanker or a loaded one?",
+      "choices": [
+        "Loaded tanker",
+        "Empty tanker",
+        "They stop in the same distance",
+        "It depends on the weather"
+      ],
+      "correct": 1,
+      "explanation": "Empty tank vehicles may take longer to stop than full ones. Keep this in mind when driving an empty or lightly loaded tank vehicle."
+    },
+    {
+      "id": "tv10",
+      "question": "When driving a tank vehicle, you should:",
+      "choices": [
+        "Drive faster to minimize sloshing",
+        "Take curves and turns slowly",
+        "Accelerate quickly through turns",
+        "Brake hard when entering curves"
+      ],
+      "correct": 1,
+      "explanation": "Drive slowly and carefully, especially on curves and turns. The high center of gravity and liquid surge make tank vehicles prone to rollover."
+    },
+    {
+      "id": "tv11",
+      "question": "A tank vehicle is most likely to roll over when:",
+      "choices": [
+        "Driving uphill at low speed",
+        "Taking a curve too fast",
+        "Driving straight on a flat highway",
+        "Backing into a loading dock"
+      ],
+      "correct": 1,
+      "explanation": "Tank vehicles are most likely to roll over when taking curves too fast. The high center of gravity and liquid surge combine to cause rollovers."
+    },
+    {
+      "id": "tv12",
+      "question": "Special purpose equipment on a tank vehicle includes:",
+      "choices": [
+        "GPS tracking and dash cameras",
+        "Shut-off systems, vapor kits, grounding cables",
+        "Auxiliary fuel tanks and generators",
+        "Refrigeration units and temperature gauges"
+      ],
+      "correct": 1,
+      "explanation": "Tank vehicles may have special equipment like vapor recovery kits, grounding and bonding cables, emergency shut-off systems, and built-in fire extinguishers."
+    },
+    {
+      "id": "tv13",
+      "question": "Why is it important to check the intake, discharge, and cut-off valves?",
+      "choices": [
+        "For appearance",
+        "To prevent leaks",
+        "To check paint condition",
+        "They're not important"
+      ],
+      "correct": 1,
+      "explanation": "Checking valves is critical to prevent leaks. Make sure they are in the correct positions and aren't damaged or leaking."
+    },
+    {
+      "id": "tv14",
+      "question": "When hauling liquids, you should avoid:",
+      "choices": [
+        "Using lower gears on hills",
+        "Sudden braking and acceleration",
+        "Checking mirrors frequently",
+        "Using turn signals"
+      ],
+      "correct": 1,
+      "explanation": "Avoid sudden braking and acceleration when hauling liquids. Smooth driving reduces liquid surge and helps maintain control."
+    },
+    {
+      "id": "tv15",
+      "question": "A partially filled liquid tank is more dangerous because:",
+      "choices": [
+        "It is harder to see out the mirrors",
+        "The liquid has room to surge and slosh",
+        "It is more likely to develop leaks",
+        "The brakes wear out more quickly"
+      ],
+      "correct": 1,
+      "explanation": "Partially filled tanks are more dangerous because the liquid has room to surge and slosh, affecting vehicle stability and handling."
+    },
+    {
+      "id": "tv16",
+      "question": "How do bulkheads differ from baffles in a tank?",
+      "choices": [
+        "Bulkheads have holes to let liquid flow through",
+        "Bulkheads completely divide the tank into sections",
+        "Bulkheads only reduce side-to-side surge",
+        "Bulkheads are used only in food-grade tanks"
+      ],
+      "correct": 1,
+      "explanation": "Bulkheads completely divide a tank into separate smaller tanks. Unlike baffles (which have holes for liquid flow), bulkheads are solid walls. Drivers must pay attention to weight distribution when loading individual compartments."
+    },
+    {
+      "id": "tv17",
+      "question": "A tank may not be fully loaded with a dense liquid like acid because:",
+      "choices": [
+        "The liquid would expand too much",
+        "It could exceed legal weight limits",
+        "Dense liquids damage tank linings",
+        "Baffles cannot handle heavy liquids"
+      ],
+      "correct": 1,
+      "explanation": "A full tank of dense liquid (such as some acids) may exceed legal weight limits. Tanks carrying heavy liquids are often only partially filled for this reason."
+    },
+    {
+      "id": "tv18",
+      "question": "The amount of liquid to load into a tank depends on:",
+      "choices": [
+        "Tank color, age, and manufacturer rating",
+        "Liquid expansion, weight, and legal limits",
+        "Distance to destination and road conditions",
+        "Time of year, altitude, and humidity levels"
+      ],
+      "correct": 1,
+      "explanation": "How much liquid to load depends on three factors: the amount the liquid will expand in transit, the weight of the liquid, and legal weight limits."
+    },
+    {
+      "id": "tv19",
+      "question": "If your drive wheels or trailer wheels begin to skid on a tank vehicle, what can happen?",
+      "choices": [
+        "The surge effect stops immediately",
+        "The vehicle may jackknife",
+        "The baffles lock the liquid in place",
+        "The tank pressure increases sharply"
+      ],
+      "correct": 1,
+      "explanation": "If drive wheels or trailer wheels begin to skid on a tank vehicle, the vehicle may jackknife. Avoid over-steering, over-accelerating, or over-braking to prevent skids."
+    },
+    {
+      "id": "tv20",
+      "question": "If you steer quickly while braking in a tank vehicle, you risk:",
+      "choices": [
+        "Locking the steering column",
+        "A vehicle rollover",
+        "Draining the air tanks completely",
+        "Breaking the baffle connections"
+      ],
+      "correct": 1,
+      "explanation": "Steering quickly while braking in a tank vehicle can cause a rollover. The high center of gravity and liquid surge combine to make this extremely dangerous."
+    }
+  ]
+}
