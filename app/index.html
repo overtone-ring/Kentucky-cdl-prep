@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <title>Kentucky CDL Practice Test</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="app">
+        <!-- Home Screen -->
+        <div id="home-screen" class="screen active">
+            <div class="header">
+                <h1>Kentucky CDL</h1>
+                <h2>Practice Test</h2>
+            </div>
+            <div class="subtitle">Based on the Official KY CDL Manual</div>
+
+            <div class="test-options">
+                <button class="test-btn" data-test="generalKnowledge">
+                    <span class="test-name">General Knowledge</span>
+                    <span class="test-info">50 Questions</span>
+                </button>
+                <button class="test-btn" data-test="airBrakes">
+                    <span class="test-name">Air Brakes</span>
+                    <span class="test-info">25 Questions</span>
+                </button>
+                <button class="test-btn" data-test="passenger">
+                    <span class="test-name">Passenger</span>
+                    <span class="test-info">20 Questions</span>
+                </button>
+                <button class="test-btn" data-test="schoolBus">
+                    <span class="test-name">School Bus</span>
+                    <span class="test-info">20 Questions</span>
+                </button>
+            </div>
+
+            <div class="mode-toggle">
+                <label class="toggle-container">
+                    <input type="checkbox" id="study-mode-toggle">
+                    <span class="toggle-label">Study Mode (show explanations immediately)</span>
+                </label>
+            </div>
+
+            <div class="stats-summary" id="stats-summary"></div>
+        </div>
+
+        <!-- Test Screen -->
+        <div id="test-screen" class="screen">
+            <div class="test-header">
+                <button class="back-btn" id="back-btn">&larr;</button>
+                <span class="test-title" id="test-title">General Knowledge</span>
+                <span class="progress" id="progress">1/50</span>
+            </div>
+
+            <div class="progress-bar">
+                <div class="progress-fill" id="progress-fill"></div>
+            </div>
+
+            <div class="question-container">
+                <div class="question-number" id="question-number">Question 1</div>
+                <div class="question-text" id="question-text"></div>
+
+                <div class="choices" id="choices"></div>
+
+                <div class="explanation hidden" id="explanation"></div>
+
+                <div class="nav-buttons">
+                    <button class="nav-btn" id="prev-btn" disabled>Previous</button>
+                    <button class="nav-btn primary" id="next-btn">Next</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Results Screen -->
+        <div id="results-screen" class="screen">
+            <div class="results-container">
+                <div class="results-header">
+                    <h2 id="results-title">Test Complete!</h2>
+                </div>
+
+                <div class="score-circle" id="score-circle">
+                    <span class="score-percent" id="score-percent">0%</span>
+                    <span class="score-label">Score</span>
+                </div>
+
+                <div class="results-details">
+                    <div class="result-row">
+                        <span>Correct Answers:</span>
+                        <span id="correct-count">0</span>
+                    </div>
+                    <div class="result-row">
+                        <span>Incorrect Answers:</span>
+                        <span id="incorrect-count">0</span>
+                    </div>
+                    <div class="result-row">
+                        <span>Passing Score:</span>
+                        <span>80%</span>
+                    </div>
+                </div>
+
+                <div class="pass-fail" id="pass-fail">PASSED</div>
+
+                <div class="results-actions">
+                    <button class="action-btn" id="review-btn">Review Answers</button>
+                    <button class="action-btn" id="retake-btn">Retake Test</button>
+                    <button class="action-btn secondary" id="home-btn">Back to Menu</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Review Screen -->
+        <div id="review-screen" class="screen">
+            <div class="test-header">
+                <button class="back-btn" id="review-back-btn">&larr;</button>
+                <span class="test-title">Review Answers</span>
+                <span class="progress" id="review-progress">1/50</span>
+            </div>
+
+            <div class="question-container">
+                <div class="question-status" id="review-status"></div>
+                <div class="question-number" id="review-question-number">Question 1</div>
+                <div class="question-text" id="review-question-text"></div>
+
+                <div class="choices review-choices" id="review-choices"></div>
+
+                <div class="explanation visible" id="review-explanation"></div>
+
+                <div class="nav-buttons">
+                    <button class="nav-btn" id="review-prev-btn">Previous</button>
+                    <button class="nav-btn" id="review-next-btn">Next</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
