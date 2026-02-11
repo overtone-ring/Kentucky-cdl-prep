@@ -41,10 +41,10 @@
       },
       {
         "id": "gk6",
-        "question": "On a two-lane road, how far from the vehicle should you place the rearmost warning device when stopped?",
+        "question": "On a one-way or divided highway, how far from the vehicle should you place the rearmost warning device when stopped?",
         "choices": ["100 feet", "200 feet", "300 feet", "50 feet"],
         "correct": 1,
-        "explanation": "On a two-lane road, place warning devices 10 feet, 100 feet, and 200 feet toward approaching traffic."
+        "explanation": "On a one-way or divided highway, place warning devices at 10 feet, 100 feet, and 200 feet toward approaching traffic."
       },
       {
         "id": "gk7",
@@ -139,10 +139,10 @@
       },
       {
         "id": "gk20",
-        "question": "Which of the following is a leading cause of serious vehicle fires?",
-        "choices": ["Electrical problems", "Fuel leaks", "Smoking near the vehicle", "Engine overheating"],
-        "correct": 1,
-        "explanation": "Fuel leaking around the engine is a leading cause of vehicle fires. Spilled fuel, loose fuel connections, and improper fueling are all fire hazards."
+        "question": "Which of the following is a cause of serious vehicle fires?",
+        "choices": ["Electrical problems", "Fuel leaks", "Smoking near the vehicle", "All of the above"],
+        "correct": 3,
+        "explanation": "Vehicle fires can be caused by fuel leaks, electrical short circuits, improper use of flares, under-inflated tires, and flammable cargo. Spilled fuel, loose fuel connections, and improper fueling are common fire hazards."
       },
       {
         "id": "gk21",
@@ -154,9 +154,9 @@
       {
         "id": "gk22",
         "question": "When driving in slippery conditions, how much more following distance should you allow?",
-        "choices": ["Double the normal distance", "Triple the normal distance", "Add one second", "Same as normal"],
+        "choices": ["Much more than normal", "Triple the normal distance", "Add one second", "Same as normal"],
         "correct": 0,
-        "explanation": "When roads are slippery, you need more distance to stop, so slow down and increase following distance."
+        "explanation": "When roads are slippery, you need much more space to stop. Wet roads can double stopping distance. Slow down and increase your following distance significantly."
       },
       {
         "id": "gk23",
@@ -279,10 +279,10 @@
       },
       {
         "id": "gk40",
-        "question": "What is the main reason for covering cargo on an open bed?",
-        "choices": ["To make the load look nicer", "To protect the cargo and prevent it from falling", "To reduce wind resistance", "It's not necessary to cover cargo"],
+        "question": "What are the two basic reasons for covering cargo on an open bed?",
+        "choices": ["To reduce wind resistance and improve fuel economy", "To protect people from spilled cargo and protect cargo from weather", "To prevent theft and hide the cargo", "It's not necessary to cover cargo"],
         "correct": 1,
-        "explanation": "You should cover cargo to protect the cargo from weather and to prevent it from falling or blowing off."
+        "explanation": "There are two basic reasons for covering cargo: to protect people from spilled cargo, and to protect the cargo from weather."
       },
       {
         "id": "gk41",
@@ -1211,9 +1211,9 @@
       {
         "id": "cv23",
         "question": "When uncoupling, why should you lower the landing gear before disconnecting air lines?",
-        "choices": ["To save time", "The trailer could fall if landing gear collapses or sinks", "Air lines are easier to reach", "It's not important"],
+        "choices": ["To save time", "To support the trailer before disconnecting", "Air lines are easier to reach", "It's not important"],
         "correct": 1,
-        "explanation": "Lower landing gear first. After pulling partially clear, stop with tractor frame under trailer in case landing gear collapses or sinks."
+        "explanation": "The uncoupling procedure requires lowering the landing gear before disconnecting air lines to ensure the trailer is supported. When pulling partially clear, stop with the tractor frame under the trailer in case the landing gear collapses or sinks."
       },
       {
         "id": "cv24",
@@ -1301,10 +1301,10 @@
       },
       {
         "id": "dt10",
-        "question": "The proper order for coupling a second trailer to your combination is:",
-        "choices": ["Connect air lines, back under trailer, lock pintle hook", "Lower trailer landing gear, connect dolly, connect air lines", "Back first trailer into position, connect dolly, connect air lines", "Secure dolly support, connect air lines and light cord, release dolly brakes, back under trailer"],
-        "correct": 3,
-        "explanation": "The proper order is: secure dolly support, connect air lines and light cord, release dolly brakes, then back under the trailer."
+        "question": "When coupling a second trailer, after positioning the converter dolly, what is the next step?",
+        "choices": ["Connect air lines and light cord", "Charge the trailer air tanks", "Back the converter dolly under the rear trailer", "Raise the landing gear completely"],
+        "correct": 2,
+        "explanation": "After positioning the dolly in front of the second trailer, back the converter dolly under the rear trailer. Air lines and light cords are connected after the dolly is coupled."
       },
       {
         "id": "dt11",
@@ -1444,7 +1444,7 @@
         "question": "Which takes longer to stop - an empty tanker or a loaded one?",
         "choices": ["Loaded tanker", "Empty tanker", "They stop in the same distance", "It depends on the weather"],
         "correct": 1,
-        "explanation": "Empty tankers take longer to stop than loaded ones. The brakes are designed for loaded weights, and empty tanks bounce more."
+        "explanation": "Empty tank vehicles may take longer to stop than full ones. Keep this in mind when driving an empty or lightly loaded tank vehicle."
       },
       {
         "id": "tv10",
@@ -1463,9 +1463,9 @@
       {
         "id": "tv12",
         "question": "Special purpose equipment on a tank vehicle includes:",
-        "choices": ["GPS systems", "Emergency valves, vapor recovery, grounding cables", "DVD players", "Extra fuel tanks"],
+        "choices": ["GPS systems", "Emergency shut-off systems, vapor recovery kits, grounding cables", "DVD players", "Extra fuel tanks"],
         "correct": 1,
-        "explanation": "Tank vehicles may have special equipment like emergency valves, vapor recovery kits, grounding cables, and specialized loading/unloading systems."
+        "explanation": "Tank vehicles may have special equipment like vapor recovery kits, grounding and bonding cables, emergency shut-off systems, and built-in fire extinguishers."
       },
       {
         "id": "tv13",
@@ -1575,9 +1575,9 @@
       {
         "id": "hm12",
         "question": "Who is responsible for placarding a vehicle?",
-        "choices": ["Only the shipper", "Only the driver", "The shipper, but the driver can't move an improperly placarded vehicle", "The DOT"],
+        "choices": ["Only the shipper", "Only the driver", "The shipper supplies placards, but the driver must placard the vehicle", "The DOT"],
         "correct": 2,
-        "explanation": "The shipper is responsible for placarding, but the driver must never transport hazardous materials in an improperly placarded vehicle."
+        "explanation": "The shipper supplies the required placards, but the driver is responsible for attaching them to the vehicle. You may only move an improperly placarded vehicle in an emergency to protect life or property."
       },
       {
         "id": "hm13",
@@ -1602,10 +1602,10 @@
       },
       {
         "id": "hm16",
-        "question": "A hazmat load must be checked at least every:",
-        "choices": ["50 miles", "100 miles", "150 miles or 3 hours", "Beginning and end of trip only"],
+        "question": "How often should you check your cargo securement, including hazmat loads?",
+        "choices": ["50 miles", "100 miles", "Within the first 50 miles, then every 150 miles or 3 hours", "Beginning and end of trip only"],
         "correct": 2,
-        "explanation": "Check your hazmat load at the beginning of the trip, when changing drivers, after an accident, or every 150 miles or 3 hours (whichever comes first)."
+        "explanation": "Cargo securement rules require checking your load within the first 50 miles and every 150 miles or 3 hours (whichever comes first). For hazmat, also check tires at the beginning of each trip and each time the vehicle is parked."
       },
       {
         "id": "hm17",
