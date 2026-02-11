@@ -341,7 +341,11 @@
             airBrakes: 'Air Brakes',
             passenger: 'Passenger',
             schoolBus: 'School Bus',
-            vehicleInspection: 'Pre-Trip Inspection'
+            vehicleInspection: 'Pre-Trip Inspection',
+            combinationVehicles: 'Combination Vehicles',
+            doublesTriples: 'Doubles/Triples',
+            tankVehicles: 'Tank Vehicles',
+            hazardousMaterials: 'Hazardous Materials'
         };
 
         for (const [key, data] of Object.entries(stats)) {

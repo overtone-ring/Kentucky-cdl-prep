@@ -58,7 +58,7 @@
         "question": "At 55 mph, perception distance (the distance traveled while recognizing a hazard) is approximately:",
         "choices": ["61 feet", "142 feet", "216 feet", "32 feet"],
         "correct": 1,
-        "explanation": "Perception Distance is about 1.5 seconds. At 55 mph this accounts for 142 feet."
+        "explanation": "The average perception time is 1 3/4 seconds (1.75 seconds). At 55 mph this accounts for 142 feet traveled."
       },
       {
         "id": "gk9",
@@ -139,10 +139,10 @@
       },
       {
         "id": "gk20",
-        "question": "What is the most common cause of serious vehicle fires?",
+        "question": "Which of the following is a leading cause of serious vehicle fires?",
         "choices": ["Electrical problems", "Fuel leaks", "Smoking near the vehicle", "Engine overheating"],
         "correct": 1,
-        "explanation": "The most common cause of vehicle fires is fuel leaking around the engine."
+        "explanation": "Fuel leaking around the engine is a leading cause of vehicle fires. Spilled fuel, loose fuel connections, and improper fueling are all fire hazards."
       },
       {
         "id": "gk21",
@@ -174,10 +174,10 @@
       },
       {
         "id": "gk25",
-        "question": "You should inspect your tires every:",
+        "question": "When driving in very hot weather, you should inspect your tires every:",
         "choices": ["200 miles or 4 hours", "150 miles or 3 hours", "100 miles or 2 hours", "50 miles or 1 hour"],
         "correct": 2,
-        "explanation": "Check tires every 100 miles or every 2 hours."
+        "explanation": "In very hot weather, check tires every 2 hours or every 100 miles to monitor for proper inflation and overheating."
       },
       {
         "id": "gk26",
@@ -295,8 +295,8 @@
         "id": "gk42",
         "question": "How much weight can a cargo securement system be required to withstand?",
         "choices": ["Half the cargo weight", "The full cargo weight", "1.5 times the cargo weight", "Twice the cargo weight"],
-        "correct": 2,
-        "explanation": "The securement system must be able to withstand 1.5 times the weight of the cargo."
+        "correct": 0,
+        "explanation": "Federal regulations require the aggregate working load limit of any securement system must be at least one-half (50%) of the weight of the cargo being secured."
       },
       {
         "id": "gk43",
@@ -336,9 +336,9 @@
       {
         "id": "gk48",
         "question": "When must you use your headlights?",
-        "choices": ["Only at night", "30 minutes before sunset to 30 minutes after sunrise, and any time visibility is reduced", "Only when it's raining", "When you feel it's necessary"],
+        "choices": ["Only at night", "At night and any time you cannot see clearly ahead", "Only when it's raining", "When you feel it's necessary"],
         "correct": 1,
-        "explanation": "Headlights are required from a half hour after sunset to a half hour before sunrise, or any time you can't see clearly."
+        "explanation": "Use headlights at night and any time visibility is reduced (fog, rain, snow). Low beams let you see about 250 feet ahead; high beams about 350-500 feet."
       },
       {
         "id": "gk49",
@@ -636,10 +636,10 @@
       },
       {
         "id": "pe14",
-        "question": "What should you do before allowing passengers to exit the bus?",
+        "question": "What should you do before starting the bus after passengers have boarded?",
         "choices": ["Nothing special", "Wait for them to sit down or brace themselves", "Start moving slowly", "Open all doors"],
         "correct": 1,
-        "explanation": "Wait for passengers to sit down or brace themselves before starting. Starting and stopping should be smooth."
+        "explanation": "Wait for passengers to sit down or brace themselves before starting. Starting and stopping should be smooth to avoid rider injury."
       },
       {
         "id": "pe15",
@@ -1046,6 +1046,629 @@
         "choices": ["You lose 5 points", "You get a warning", "Automatic failure of the vehicle inspection test", "Nothing - it's optional"],
         "correct": 2,
         "explanation": "Failure to perform all three components of the air brake check correctly will result in an automatic failure of the vehicle inspection test."
+      }
+    ]
+  },
+  "combinationVehicles": {
+    "name": "Combination Vehicles",
+    "requiredScore": 80,
+    "questionCount": 25,
+    "questions": [
+      {
+        "id": "cv1",
+        "question": "Fully loaded rigs are how many times more likely to roll over than empty rigs?",
+        "choices": ["2 times", "5 times", "10 times", "15 times"],
+        "correct": 2,
+        "explanation": "Fully loaded rigs are ten times more likely to roll over in a crash than empty rigs because cargo raises the center of gravity."
+      },
+      {
+        "id": "cv2",
+        "question": "What two things help prevent rollover in combination vehicles?",
+        "choices": ["Drive fast, keep cargo high", "Keep cargo low and centered, drive slowly around turns", "Use trailer hand brake, accelerate through turns", "Keep cargo to one side, use high gear"],
+        "correct": 1,
+        "explanation": "Keep cargo as close to the ground as possible and centered, and drive slowly around turns to prevent rollover."
+      },
+      {
+        "id": "cv3",
+        "question": "What is 'rearward amplification' also known as?",
+        "choices": ["Jackknifing", "Off-tracking", "Crack-the-whip effect", "Trailer swing"],
+        "correct": 2,
+        "explanation": "Rearward amplification causes the crack-the-whip effect. Quick lane changes can cause the rear trailer to turn over."
+      },
+      {
+        "id": "cv4",
+        "question": "In triples, the rearward amplification factor is:",
+        "choices": ["1.5", "2.0", "3.5", "5.0"],
+        "correct": 2,
+        "explanation": "Triples have a rearward amplification of 3.5, meaning you can roll the last trailer 3.5 times as easily as a five-axle tractor."
+      },
+      {
+        "id": "cv5",
+        "question": "When pulling doubles, which trailer is most likely to turn over in a quick lane change?",
+        "choices": ["The front trailer", "The rear trailer", "Both equally", "Neither - doubles are stable"],
+        "correct": 1,
+        "explanation": "Due to the crack-the-whip effect (rearward amplification), the rear trailer is most likely to turn over in a quick lane change."
+      },
+      {
+        "id": "cv6",
+        "question": "What is 'off-tracking' (also called 'cheating')?",
+        "choices": ["When brakes fail", "When rear wheels follow a different path than front wheels in turns", "When trailer disconnects", "When tires lose traction"],
+        "correct": 1,
+        "explanation": "Off-tracking is when rear wheels follow a different path than front wheels during turns. Longer vehicles off-track more."
+      },
+      {
+        "id": "cv7",
+        "question": "A 'bobtail' tractor (without trailer) compared to a fully loaded tractor-trailer:",
+        "choices": ["Stops more quickly", "Takes longer to stop", "Stops the same", "Cannot be driven"],
+        "correct": 1,
+        "explanation": "Bobtails can be very hard to stop smoothly. They take longer to stop than a tractor-semitrailer loaded to maximum gross weight."
+      },
+      {
+        "id": "cv8",
+        "question": "When should you use the trailer hand valve (trolley valve)?",
+        "choices": ["For normal braking", "Only to test trailer brakes", "To prevent jackknifing", "For parking"],
+        "correct": 1,
+        "explanation": "The trailer hand valve should only be used to test the trailer brakes. Using it while driving can cause the trailer to skid."
+      },
+      {
+        "id": "cv9",
+        "question": "Why should you NEVER use the trailer hand brake to straighten out a jackknifing trailer?",
+        "choices": ["It doesn't work fast enough", "The trailer brakes caused the skid in the first place", "It will damage the brakes", "It only works when parked"],
+        "correct": 1,
+        "explanation": "Don't use the trailer hand brake to straighten a jackknife because the brakes on the trailer wheels caused the skid in the first place."
+      },
+      {
+        "id": "cv10",
+        "question": "How do you stop a trailer skid?",
+        "choices": ["Apply more brakes", "Release the brakes to regain traction", "Turn sharply", "Accelerate"],
+        "correct": 1,
+        "explanation": "To stop a trailer skid, release the brakes to get traction back. Once the trailer wheels grip the road, the trailer will straighten out."
+      },
+      {
+        "id": "cv11",
+        "question": "The trailer air supply control on newer vehicles is what shape and color?",
+        "choices": ["Round and yellow", "Square and blue", "Red eight-sided knob", "Diamond-shaped and green"],
+        "correct": 2,
+        "explanation": "The trailer air supply control on newer vehicles is a red eight-sided knob used to control the tractor protection valve."
+      },
+      {
+        "id": "cv12",
+        "question": "What are the two air lines that connect the tractor to the trailer?",
+        "choices": ["Primary and secondary", "Front and rear", "Service line and emergency line", "Supply and return"],
+        "correct": 2,
+        "explanation": "Every combination vehicle has two air lines: the service line (control line) and the emergency line (supply line)."
+      },
+      {
+        "id": "cv13",
+        "question": "What color are service line glad hands typically coded?",
+        "choices": ["Red", "Blue", "Yellow", "Green"],
+        "correct": 1,
+        "explanation": "Service lines are often coded blue, while emergency (supply) lines are coded red to prevent mixing them up."
+      },
+      {
+        "id": "cv14",
+        "question": "What happens if you cross the air lines when coupling?",
+        "choices": ["Nothing - they work the same", "The trailer brakes won't release", "The tractor brakes fail", "The horn won't work"],
+        "correct": 1,
+        "explanation": "If you cross air lines, air won't charge the trailer tanks and the spring brakes won't release. You could drive away without trailer brakes."
+      },
+      {
+        "id": "cv15",
+        "question": "On trailers without spring brakes (built before 1975), what should you always use when parking?",
+        "choices": ["The trailer hand valve", "Wheel chocks", "The emergency brake only", "Nothing special needed"],
+        "correct": 1,
+        "explanation": "Trailers without spring brakes need wheel chocks when parked because air can leak away leaving no brakes."
+      },
+      {
+        "id": "cv16",
+        "question": "Where are shut-off valves located on combination vehicles?",
+        "choices": ["Only on the tractor", "At the back of trailers used to tow other trailers", "On the front of each trailer", "Inside the cab only"],
+        "correct": 1,
+        "explanation": "Shut-off valves are at the back of trailers used to tow other trailers. They permit closing air lines when another trailer isn't being towed."
+      },
+      {
+        "id": "cv17",
+        "question": "When towing multiple trailers, which shut-off valves should be closed?",
+        "choices": ["All of them", "None of them", "Only the ones at the back of the last trailer", "Only the front trailer's valves"],
+        "correct": 2,
+        "explanation": "All shut-off valves should be open except the ones at the back of the last trailer, which must be closed."
+      },
+      {
+        "id": "cv18",
+        "question": "All trailers and converter dollies built on or after what date must have ABS?",
+        "choices": ["March 1, 1997", "March 1, 1998", "January 1, 1999", "January 1, 2000"],
+        "correct": 1,
+        "explanation": "All trailers and converter dollies built on or after March 1, 1998 are required to have ABS."
+      },
+      {
+        "id": "cv19",
+        "question": "When coupling, what should the trailer height be?",
+        "choices": ["Higher than the fifth wheel", "Low enough to be raised slightly when tractor backs under", "Exactly level with fifth wheel", "As low as possible"],
+        "correct": 1,
+        "explanation": "The trailer should be low enough that it is raised slightly by the tractor when backing under. Too low damages the nose; too high may not couple correctly."
+      },
+      {
+        "id": "cv20",
+        "question": "After coupling, how much space should there be between the upper and lower fifth wheel?",
+        "choices": ["About 1 inch", "About 2 inches", "No space at all", "3-4 inches"],
+        "correct": 2,
+        "explanation": "There should be no space between upper and lower fifth wheel. If there is space, the kingpin may be on top of closed jaws and the trailer could come loose."
+      },
+      {
+        "id": "cv21",
+        "question": "When inspecting the coupling, the locking jaws should be around what part of the kingpin?",
+        "choices": ["The head", "The shank", "The base", "Any part is fine"],
+        "correct": 1,
+        "explanation": "The locking jaws must be around the shank of the kingpin, not the head. If around the head, the trailer could come loose."
+      },
+      {
+        "id": "cv22",
+        "question": "Why must the fifth wheel be properly greased?",
+        "choices": ["To prevent rust", "To prevent steering problems from friction", "For appearance", "It's not necessary to grease it"],
+        "correct": 1,
+        "explanation": "Failure to keep the fifth wheel plate lubricated could cause steering problems because of friction between the tractor and trailer."
+      },
+      {
+        "id": "cv23",
+        "question": "When uncoupling, why should you lower the landing gear before disconnecting air lines?",
+        "choices": ["To save time", "The trailer could fall if landing gear collapses or sinks", "Air lines are easier to reach", "It's not important"],
+        "correct": 1,
+        "explanation": "Lower landing gear first. After pulling partially clear, stop with tractor frame under trailer in case landing gear collapses or sinks."
+      },
+      {
+        "id": "cv24",
+        "question": "To test that air flows to all trailers, you should open the emergency line shut-off at the rear of the last trailer and:",
+        "choices": ["See if lights come on", "Hear air escaping", "Feel for vibration", "Check the gauge only"],
+        "correct": 1,
+        "explanation": "Open the emergency line shut-off valve at the rear of the last trailer. You should hear air escaping, showing the entire system is charged."
+      },
+      {
+        "id": "cv25",
+        "question": "When backing a trailer, which way do you turn the steering wheel to make the trailer go left?",
+        "choices": ["Turn left (same direction)", "Turn right (opposite direction)", "It doesn't matter", "You can't steer while backing"],
+        "correct": 1,
+        "explanation": "When backing a trailer, turn the steering wheel in the opposite direction you want the trailer to go. Turn right to make trailer go left."
+      }
+    ]
+  },
+  "doublesTriples": {
+    "name": "Doubles/Triples",
+    "requiredScore": 80,
+    "questionCount": 20,
+    "questions": [
+      {
+        "id": "dt1",
+        "question": "When coupling doubles, which trailer should be positioned first (closest to the tractor)?",
+        "choices": ["The lighter trailer", "The heavier trailer", "The shorter trailer", "It doesn't matter"],
+        "correct": 1,
+        "explanation": "The heavier trailer should be positioned closest to the tractor. This improves stability and handling of the combination."
+      },
+      {
+        "id": "dt2",
+        "question": "Converter dollies built after March 1, 1998 are required to have:",
+        "choices": ["Electric brakes", "ABS (Anti-lock Braking System)", "Air suspension", "Dual tires"],
+        "correct": 1,
+        "explanation": "Converter dollies built on or after March 1, 1998 are required to have ABS. Look for the yellow ABS malfunction lamp on the left side."
+      },
+      {
+        "id": "dt3",
+        "question": "On most converter dollies, the ABS warning lamp is located:",
+        "choices": ["On the dashboard", "On the left side of the dolly", "On the rear of the dolly", "Inside the trailer"],
+        "correct": 1,
+        "explanation": "On converter dollies, the ABS warning lamp is on the left side of the dolly."
+      },
+      {
+        "id": "dt4",
+        "question": "When inspecting doubles/triples, where should the shut-off valves be positioned?",
+        "choices": ["All closed", "All open", "Open on all trailers except the last one", "Closed on the first trailer only"],
+        "correct": 2,
+        "explanation": "Shut-off valves should be open on all trailers except the last one. The valves on the rear of the last trailer should be closed."
+      },
+      {
+        "id": "dt5",
+        "question": "You should NEVER unlock the pintle hook with the dolly still under a trailer because:",
+        "choices": ["It damages the pintle hook", "The dolly tow bar may fly up", "It's harder to reconnect", "The brakes may fail"],
+        "correct": 1,
+        "explanation": "Never unlock the pintle hook with the dolly still under a trailer. The dolly tow bar may fly up, potentially causing injury."
+      },
+      {
+        "id": "dt6",
+        "question": "In a set of doubles or triples, which trailer is most likely to turn over?",
+        "choices": ["The first trailer", "The middle trailer", "The rearmost trailer", "They all have equal risk"],
+        "correct": 2,
+        "explanation": "The rearmost trailer is most likely to turn over due to the 'crack-the-whip' effect during sudden steering movements."
+      },
+      {
+        "id": "dt7",
+        "question": "What is the 'crack-the-whip' effect?",
+        "choices": ["When brakes lock up on slippery roads", "When the rearmost trailer amplifies any steering movement", "When air pressure drops suddenly", "When the dolly disconnects"],
+        "correct": 1,
+        "explanation": "The crack-the-whip effect occurs when a sudden steering movement causes the rearmost trailer to swing out much more than the tractor, potentially causing rollover."
+      },
+      {
+        "id": "dt8",
+        "question": "Compared to single trailers, doubles and triples have:",
+        "choices": ["Lower rollover risk", "Higher rollover risk", "Same rollover risk", "No rollover risk with ABS"],
+        "correct": 1,
+        "explanation": "Doubles and triples have a higher risk of rollover due to their length, multiple pivot points, and the crack-the-whip effect."
+      },
+      {
+        "id": "dt9",
+        "question": "When coupling a converter dolly to a second or third trailer, the trailer air tanks should be:",
+        "choices": ["Empty", "At minimum pressure", "Fully charged", "Half full"],
+        "correct": 2,
+        "explanation": "The trailer air tanks should be fully charged before coupling to ensure proper brake operation and easier coupling."
+      },
+      {
+        "id": "dt10",
+        "question": "The proper order for coupling a second trailer to your combination is:",
+        "choices": ["Connect air lines, back under trailer, lock pintle hook", "Lower trailer landing gear, connect dolly, connect air lines", "Back first trailer into position, connect dolly, connect air lines", "Secure dolly support, connect air lines and light cord, release dolly brakes, back under trailer"],
+        "correct": 3,
+        "explanation": "The proper order is: secure dolly support, connect air lines and light cord, release dolly brakes, then back under the trailer."
+      },
+      {
+        "id": "dt11",
+        "question": "Before disconnecting a converter dolly, you should:",
+        "choices": ["Release the air brakes", "Lower the dolly landing gear", "Apply spring brakes on the dolly", "Disconnect the air lines first"],
+        "correct": 2,
+        "explanation": "Before disconnecting a converter dolly, apply the spring/parking brakes on the dolly to prevent it from rolling."
+      },
+      {
+        "id": "dt12",
+        "question": "When driving doubles/triples, you should look how far ahead?",
+        "choices": ["Same as single vehicle", "Further ahead than with singles", "Closer than with singles", "Only as far as the next light"],
+        "correct": 1,
+        "explanation": "Look further ahead when driving doubles or triples because it takes longer to stop and you need more time to react."
+      },
+      {
+        "id": "dt13",
+        "question": "The service line of a converter dolly is typically what color?",
+        "choices": ["Red", "Blue", "Green", "Yellow"],
+        "correct": 1,
+        "explanation": "Service lines are typically blue. The emergency/supply line is typically red."
+      },
+      {
+        "id": "dt14",
+        "question": "When uncoupling the rear trailer in a set of doubles, you should:",
+        "choices": ["Disconnect it while still moving", "Disconnect the dolly first", "Lower the landing gear before disconnecting any lines", "Drive away quickly after uncoupling"],
+        "correct": 2,
+        "explanation": "Lower the landing gear before disconnecting any lines to support the trailer. This prevents the trailer from dropping."
+      },
+      {
+        "id": "dt15",
+        "question": "To prevent rollover when driving doubles/triples, you should:",
+        "choices": ["Speed up through curves", "Make quick lane changes", "Keep the cargo as low as possible and drive slowly around curves", "Brake hard in curves"],
+        "correct": 2,
+        "explanation": "Keep cargo low and drive slowly around curves. Avoid quick lane changes and sudden steering movements to prevent the crack-the-whip effect."
+      },
+      {
+        "id": "dt16",
+        "question": "The safety catch for the pintle hook should be:",
+        "choices": ["Left open for quick release", "Closed and latched", "Removed for doubles", "Only used in bad weather"],
+        "correct": 1,
+        "explanation": "The safety catch for the pintle hook must be closed and latched to prevent accidental uncoupling."
+      },
+      {
+        "id": "dt17",
+        "question": "When checking the converter dolly air tank drain valve, you should:",
+        "choices": ["Make sure it's open", "Make sure it's closed", "Remove it completely", "Leave it dripping"],
+        "correct": 1,
+        "explanation": "The air tank drain valve should be closed. An open valve would let air escape and could cause brake failure."
+      },
+      {
+        "id": "dt18",
+        "question": "What should you check on the pintle hook during your pre-trip inspection?",
+        "choices": ["That it's painted", "That the safety latch is in place and the hook is not cracked", "That it moves freely", "Only that it's connected"],
+        "correct": 1,
+        "explanation": "Check that the pintle hook is not cracked or broken, that the safety latch is in place, and that it's properly secured."
+      },
+      {
+        "id": "dt19",
+        "question": "Following distance for doubles/triples should be:",
+        "choices": ["The same as for singles", "Less than for singles", "Greater than for singles", "Only increased in bad weather"],
+        "correct": 2,
+        "explanation": "Following distance should be greater for doubles/triples because they take longer to stop and require more room for maneuvering."
+      },
+      {
+        "id": "dt20",
+        "question": "When you make a sharp turn with doubles/triples, what happens to the rear trailer?",
+        "choices": ["It follows the same path as the tractor", "It cuts the corner more than the tractor", "It swings wider than the tractor", "It locks up"],
+        "correct": 1,
+        "explanation": "The rear trailer cuts the corner more sharply (off-tracking). You must make wider turns to compensate for this."
+      }
+    ]
+  },
+  "tankVehicles": {
+    "name": "Tank Vehicles",
+    "requiredScore": 80,
+    "questionCount": 15,
+    "questions": [
+      {
+        "id": "tv1",
+        "question": "A tank endorsement is required for vehicles that transport liquid or gaseous materials in tanks with a capacity of:",
+        "choices": ["500 gallons or more", "1,000 gallons or more", "More than 119 gallons individually AND 1,000 gallons or more aggregate", "Any amount"],
+        "correct": 2,
+        "explanation": "A tank endorsement is required if you haul a liquid or gaseous material in a tank having an individual rated capacity of more than 119 gallons AND an aggregate rated capacity of 1,000 gallons or more."
+      },
+      {
+        "id": "tv2",
+        "question": "What is the most important thing to check for when inspecting a tank vehicle?",
+        "choices": ["Tire pressure", "Leaks", "Paint condition", "Mirror adjustment"],
+        "correct": 1,
+        "explanation": "Leaks are the most important thing to check for in tank vehicles. Check around the entire tank, fittings, and valves."
+      },
+      {
+        "id": "tv3",
+        "question": "Baffled tanks help control:",
+        "choices": ["Side-to-side surge", "Forward and backward surge", "Both side-to-side and forward/backward surge", "Temperature of the liquid"],
+        "correct": 1,
+        "explanation": "Baffles help control forward and backward liquid surge. They do NOT prevent side-to-side surge."
+      },
+      {
+        "id": "tv4",
+        "question": "Why are smooth bore (unbaffled) tanks often used for food products?",
+        "choices": ["They're lighter", "They're cheaper", "They're easier to clean and sanitize", "They hold more liquid"],
+        "correct": 2,
+        "explanation": "Smooth bore tanks are easier to clean and sanitize inside, which is essential for hauling food products like milk."
+      },
+      {
+        "id": "tv5",
+        "question": "What is 'outage' in relation to tank vehicles?",
+        "choices": ["Power loss", "Air brake failure", "Empty space left for liquid expansion", "A type of leak"],
+        "correct": 2,
+        "explanation": "Outage is the empty space left in a tank to allow for liquid expansion as temperature increases. Liquids expand when heated."
+      },
+      {
+        "id": "tv6",
+        "question": "Compared to solid loads, tank vehicles have a:",
+        "choices": ["Lower center of gravity", "Higher center of gravity", "Same center of gravity", "Variable center of gravity"],
+        "correct": 1,
+        "explanation": "Tank vehicles have a high center of gravity because the liquid cargo is above the wheels, making them more prone to rollover."
+      },
+      {
+        "id": "tv7",
+        "question": "What is liquid surge?",
+        "choices": ["When liquid freezes", "Movement of liquid inside the tank", "Pressure buildup in the tank", "Liquid overflow"],
+        "correct": 1,
+        "explanation": "Liquid surge is the movement of liquid inside a partially filled tank. This surge can push the vehicle in the direction the liquid moves."
+      },
+      {
+        "id": "tv8",
+        "question": "How does liquid surge affect braking?",
+        "choices": ["It helps you stop faster", "It has no effect", "It can push the truck forward after you stop", "It locks the brakes"],
+        "correct": 2,
+        "explanation": "When you slow down, the liquid surges forward and can push the truck forward. You may have to stop again to fully control the vehicle."
+      },
+      {
+        "id": "tv9",
+        "question": "Which takes longer to stop - an empty tanker or a loaded one?",
+        "choices": ["Loaded tanker", "Empty tanker", "They stop in the same distance", "It depends on the weather"],
+        "correct": 1,
+        "explanation": "Empty tankers take longer to stop than loaded ones. The brakes are designed for loaded weights, and empty tanks bounce more."
+      },
+      {
+        "id": "tv10",
+        "question": "When driving a tank vehicle, you should:",
+        "choices": ["Drive faster to minimize sloshing", "Take curves and turns slowly", "Accelerate quickly through turns", "Brake hard when entering curves"],
+        "correct": 1,
+        "explanation": "Drive slowly and carefully, especially on curves and turns. The high center of gravity and liquid surge make tank vehicles prone to rollover."
+      },
+      {
+        "id": "tv11",
+        "question": "A tank vehicle is most likely to roll over when:",
+        "choices": ["Going uphill", "Taking a curve too fast", "Driving straight on a highway", "Backing up"],
+        "correct": 1,
+        "explanation": "Tank vehicles are most likely to roll over when taking curves too fast. The high center of gravity and liquid surge combine to cause rollovers."
+      },
+      {
+        "id": "tv12",
+        "question": "Special purpose equipment on a tank vehicle includes:",
+        "choices": ["GPS systems", "Emergency valves, vapor recovery, grounding cables", "DVD players", "Extra fuel tanks"],
+        "correct": 1,
+        "explanation": "Tank vehicles may have special equipment like emergency valves, vapor recovery kits, grounding cables, and specialized loading/unloading systems."
+      },
+      {
+        "id": "tv13",
+        "question": "Why is it important to check the intake, discharge, and cut-off valves?",
+        "choices": ["For appearance", "To prevent leaks", "To check paint condition", "They're not important"],
+        "correct": 1,
+        "explanation": "Checking valves is critical to prevent leaks. Make sure they are in the correct positions and aren't damaged or leaking."
+      },
+      {
+        "id": "tv14",
+        "question": "When hauling liquids, you should avoid:",
+        "choices": ["Using lower gears on hills", "Sudden braking and acceleration", "Checking mirrors frequently", "Using turn signals"],
+        "correct": 1,
+        "explanation": "Avoid sudden braking and acceleration when hauling liquids. Smooth driving reduces liquid surge and helps maintain control."
+      },
+      {
+        "id": "tv15",
+        "question": "A partially filled liquid tank is more dangerous because:",
+        "choices": ["It's harder to see", "The liquid has room to surge and slosh", "It leaks more easily", "The brakes don't work"],
+        "correct": 1,
+        "explanation": "Partially filled tanks are more dangerous because the liquid has room to surge and slosh, affecting vehicle stability and handling."
+      }
+    ]
+  },
+  "hazardousMaterials": {
+    "name": "Hazardous Materials",
+    "requiredScore": 80,
+    "questionCount": 25,
+    "questions": [
+      {
+        "id": "hm1",
+        "question": "How many hazard classes are there for hazardous materials?",
+        "choices": ["6", "7", "9", "12"],
+        "correct": 2,
+        "explanation": "There are 9 hazard classes. They include explosives, gases, flammable liquids, flammable solids, oxidizers, poisons, radioactive, corrosives, and miscellaneous."
+      },
+      {
+        "id": "hm2",
+        "question": "Hazardous materials shipping papers must be:",
+        "choices": ["Hidden from view", "In the glove box", "Within reach while driving or in the driver's door pouch", "In the trailer"],
+        "correct": 2,
+        "explanation": "Shipping papers must be within reach while driving (on driver's seat when out of vehicle) or in the driver's door pouch."
+      },
+      {
+        "id": "hm3",
+        "question": "Table 1 hazardous materials require placards for:",
+        "choices": ["1,001 pounds or more", "Any amount", "5,000 pounds or more", "Only full truckloads"],
+        "correct": 1,
+        "explanation": "Table 1 materials (like explosives and poison gases) require placards for ANY amount transported."
+      },
+      {
+        "id": "hm4",
+        "question": "Table 2 hazardous materials require placards when shipping:",
+        "choices": ["Any amount", "1,001 pounds or more", "100 pounds or more", "10,000 pounds or more"],
+        "correct": 1,
+        "explanation": "Table 2 materials require placards only when you haul 1,001 pounds or more total of all Table 2 materials."
+      },
+      {
+        "id": "hm5",
+        "question": "When parked with explosives, you must be within how many feet of the vehicle?",
+        "choices": ["25 feet", "50 feet", "100 feet", "500 feet"],
+        "correct": 2,
+        "explanation": "The vehicle must be attended at all times when carrying Division 1.1, 1.2, or 1.3 explosives. The attendant must be within 100 feet and have clear view of the vehicle."
+      },
+      {
+        "id": "hm6",
+        "question": "You must stop your vehicle carrying hazardous materials how far from railroad tracks?",
+        "choices": ["10-25 feet", "15-50 feet", "25-75 feet", "50-100 feet"],
+        "correct": 1,
+        "explanation": "Stop 15 to 50 feet before railroad crossings when carrying hazardous materials. Look and listen both ways before crossing."
+      },
+      {
+        "id": "hm7",
+        "question": "A vehicle carrying explosives must not be parked within what distance of a fire?",
+        "choices": ["100 feet", "200 feet", "300 feet", "500 feet"],
+        "correct": 2,
+        "explanation": "Never park within 300 feet of a fire, or any open flame, when carrying explosives."
+      },
+      {
+        "id": "hm8",
+        "question": "The minimum fire extinguisher rating required for HazMat vehicles is:",
+        "choices": ["5 B:C", "10 B:C", "20 B:C", "30 B:C"],
+        "correct": 1,
+        "explanation": "Hazmat vehicles must carry a fire extinguisher rated at least 10 B:C."
+      },
+      {
+        "id": "hm9",
+        "question": "No one may smoke within how many feet of a vehicle carrying explosives?",
+        "choices": ["10 feet", "25 feet", "50 feet", "100 feet"],
+        "correct": 1,
+        "explanation": "No smoking within 25 feet of any vehicle carrying explosives. This applies to loading, unloading, and when parked."
+      },
+      {
+        "id": "hm10",
+        "question": "When transporting Division 1.1 explosives through a tunnel, you must:",
+        "choices": ["Speed up", "Use hazard lights", "Not use tunnels if other routes are available", "Close all windows"],
+        "correct": 2,
+        "explanation": "Avoid tunnels, bridges, and narrow roads if other routes are available when carrying explosives. If you must use them, reduce speed."
+      },
+      {
+        "id": "hm11",
+        "question": "Placards must be placed:",
+        "choices": ["Only on the rear", "Only on the front and rear", "On all four sides of the vehicle", "Anywhere visible"],
+        "correct": 2,
+        "explanation": "When required, placards must be placed on all four sides of the vehicle - front, rear, and both sides."
+      },
+      {
+        "id": "hm12",
+        "question": "Who is responsible for placarding a vehicle?",
+        "choices": ["Only the shipper", "Only the driver", "The shipper, but the driver can't move an improperly placarded vehicle", "The DOT"],
+        "correct": 2,
+        "explanation": "The shipper is responsible for placarding, but the driver must never transport hazardous materials in an improperly placarded vehicle."
+      },
+      {
+        "id": "hm13",
+        "question": "Which shipping paper entry indicates hazardous materials?",
+        "choices": ["An 'X' or 'RQ' in the HM column", "The color of the paper", "The size of the font", "The shipper's name"],
+        "correct": 0,
+        "explanation": "An 'X' or 'RQ' (Reportable Quantity) in the HM column indicates hazardous materials. HM items may also be highlighted or listed first."
+      },
+      {
+        "id": "hm14",
+        "question": "The shipper's certification on hazardous materials shipping papers indicates that:",
+        "choices": ["The driver has a CDL", "The shipper has properly packaged and labeled the materials", "The vehicle is insured", "The route has been approved"],
+        "correct": 1,
+        "explanation": "The shipper's certification indicates that the hazardous materials have been properly classified, packaged, labeled, and are in proper condition for transport."
+      },
+      {
+        "id": "hm15",
+        "question": "You may not park a vehicle carrying hazardous materials within how many feet of the roadway?",
+        "choices": ["3 feet", "5 feet", "10 feet", "15 feet"],
+        "correct": 1,
+        "explanation": "Never park a hazmat vehicle within 5 feet of the traveled portion of the roadway except for brief necessary stops."
+      },
+      {
+        "id": "hm16",
+        "question": "A hazmat load must be checked at least every:",
+        "choices": ["50 miles", "100 miles", "150 miles or 3 hours", "Beginning and end of trip only"],
+        "correct": 2,
+        "explanation": "Check your hazmat load at the beginning of the trip, when changing drivers, after an accident, or every 150 miles or 3 hours (whichever comes first)."
+      },
+      {
+        "id": "hm17",
+        "question": "What is a Class 1 hazardous material?",
+        "choices": ["Gases", "Explosives", "Flammable liquids", "Radioactive materials"],
+        "correct": 1,
+        "explanation": "Class 1 hazardous materials are explosives. They are divided into several divisions based on their level of danger."
+      },
+      {
+        "id": "hm18",
+        "question": "What is a Class 2 hazardous material?",
+        "choices": ["Explosives", "Gases", "Flammable liquids", "Corrosives"],
+        "correct": 1,
+        "explanation": "Class 2 hazardous materials are gases. This includes flammable gases, non-flammable gases, and poison gases."
+      },
+      {
+        "id": "hm19",
+        "question": "What is a Class 3 hazardous material?",
+        "choices": ["Explosives", "Gases", "Flammable liquids", "Radioactive materials"],
+        "correct": 2,
+        "explanation": "Class 3 hazardous materials are flammable liquids. This includes gasoline, diesel fuel, and many other liquids."
+      },
+      {
+        "id": "hm20",
+        "question": "What is a Class 8 hazardous material?",
+        "choices": ["Poison", "Oxidizer", "Corrosive", "Radioactive"],
+        "correct": 2,
+        "explanation": "Class 8 hazardous materials are corrosives. These are substances that can eat through metal or cause severe burns to skin."
+      },
+      {
+        "id": "hm21",
+        "question": "The Emergency Response Guidebook (ERG) helps you:",
+        "choices": ["Find the best route", "Respond to hazmat incidents", "Calculate fuel usage", "Check vehicle weight"],
+        "correct": 1,
+        "explanation": "The ERG helps first responders and drivers identify hazardous materials and take appropriate protective actions in an emergency."
+      },
+      {
+        "id": "hm22",
+        "question": "Hazmat labels are what shape?",
+        "choices": ["Square", "Diamond (square on point)", "Circle", "Triangle"],
+        "correct": 1,
+        "explanation": "Hazmat labels are diamond-shaped (square turned 45 degrees on point). They are placed on packages."
+      },
+      {
+        "id": "hm23",
+        "question": "What is the minimum placard size?",
+        "choices": ["6 inches on each side", "8 inches on each side", "10 inches on each side (250 mm)", "12 inches on each side"],
+        "correct": 2,
+        "explanation": "Placards must be at least 250 mm (approximately 9.84 inches or about 10 inches) on each side, displayed in a diamond orientation."
+      },
+      {
+        "id": "hm24",
+        "question": "If hazardous material is leaking from your vehicle, you should NOT:",
+        "choices": ["Park the vehicle", "Stay with the vehicle", "Move the vehicle", "Set out warning devices"],
+        "correct": 2,
+        "explanation": "If hazardous materials are leaking, do not move the vehicle any more than necessary. Moving could spread contamination."
+      },
+      {
+        "id": "hm25",
+        "question": "Before transporting hazardous materials, you must have:",
+        "choices": ["A CDL only", "A CDL with HazMat endorsement", "Any driver's license", "Commercial insurance only"],
+        "correct": 1,
+        "explanation": "You must have a CDL with a HazMat endorsement to transport hazardous materials that require placarding. This requires passing a written test and background check."
       }
     ]
   }
