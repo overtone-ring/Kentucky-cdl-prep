@@ -340,7 +340,8 @@
             generalKnowledge: 'General Knowledge',
             airBrakes: 'Air Brakes',
             passenger: 'Passenger',
-            schoolBus: 'School Bus'
+            schoolBus: 'School Bus',
+            vehicleInspection: 'Pre-Trip Inspection'
         };
 
         for (const [key, data] of Object.entries(stats)) {
