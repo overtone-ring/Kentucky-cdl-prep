@@ -1,0 +1,118 @@
+Question 1
+Cargo should be checked within the first how many miles of starting a trip?
+
+[This questions answer need to specify the hours as well. On top of that the answer is not 50 miles. It's 100 miles or 1.5 hours if I remember right. This needs to be checked.]
+
+RESOLVED (gk39): The answer of 50 miles IS correct per the CDL manual (FMCSA Section 3.3). The explanation was updated to include the full schedule: "You should inspect cargo within the first 50 miles after beginning a trip. After that, recheck every 150 miles or every 3 hours, whichever comes first."
+
+Question 2
+What does GCWR stand for?
+
+[Is this question likely to be on the test? Needs to be checked.]
+
+VERIFIED (gk49): GCWR (Gross Combination Weight Rating) is defined in the CDL manual under Section 1 and is a commonly tested term on CDL knowledge tests. Question kept as-is.
+
+Question 3
+At 55 mph on dry pavement with good brakes, the total stopping distance for a heavy vehicle is approximately:
+
+[Is this specifically mentioned in the CDL manual?]
+
+VERIFIED (gk1): Yes, this is directly from the CDL manual Section 2.6. The manual breaks down: perception distance (142 ft) + reaction distance (61 ft) + braking distance (~170-200 ft) = approximately 400 feet at 55 mph. Question kept as-is.
+
+Question 5
+When driving in slippery conditions, how much more following distance should you allow?
+
+[This one actually has a specific amount in the manual and that should be reflected in the choices. The correct answer of "Much more than normal" is not adequate]
+
+RESOLVED: This question (with the vague "Much more than normal" answer) existed in the old questions.json but was already replaced during the question split. The current generalKnowledge.json has gk22 which covers wet pavement: "How does wet pavement affect your stopping distance?" with the specific answer "It can double your stopping distance." No further action needed.
+
+Question 7
+What lights must you check during a vehicle inspection?
+
+[This question doesn't list everything that needs to be checked, which is all lights. Need to verify with the manual, this is probably a good "or all of the above" type of question]
+
+VERIFIED (gk45): The current correct answer is already "All lights and reflectors" which is comprehensive and accurate per the CDL manual. The explanation lists specifics: headlights, tail lights, brake lights, turn signals, clearance lights, and all reflectors. Question kept as-is.
+
+Question 9
+How far ahead does 12 to 15 seconds represent at lower speeds?
+
+[I don't think that this is a good question at all. The distances mentioned in the manual are in seconds and rarely denote something like city blocks. Needs verification and possibly replaced]
+
+RESOLVED (gk3): Replaced with: "In cold weather, which road surfaces are most likely to become slippery first?" -- Answer: Bridges and overpasses. This is directly from the CDL manual and commonly tested.
+
+Question 11
+What is the best way to check that your service brakes are working properly?
+
+[Need verified that this is in the manual and could be relevant to the testing]
+
+VERIFIED (gk13): Yes, this is in the CDL manual under the vehicle inspection section. The manual states to move the vehicle forward slowly and apply the brakes firmly, checking for pulling to one side, unusual feel, or delayed stopping action. Question kept as-is.
+
+Question 16
+What color are the parking brake controls on newer vehicles with air brakes?
+
+[This one depends on the vehicle. Combination vehicles will have a yellow and red parking brake. This question needs replaced with something more relevant]
+
+RESOLVED (gk47): Replaced with: "If your vehicle begins to skid, what should you do first?" -- Answer: Stop braking and stop accelerating. This is from the CDL manual section on skid control and is commonly tested.
+
+Question 22
+Which of the following is a cause of serious vehicle fires?
+
+[This one needs replaced with something more relevant and more likely to be on the actual exam]
+
+RESOLVED (gk20): Replaced with: "What should you do if you experience a tire blowout while driving?" -- Answer: Hold the steering wheel firmly, stay off the brake, and slow down gradually. This is from the CDL manual emergency procedures section and is a frequently tested topic.
+
+Question 27
+If you double your speed from 20 to 40 mph, the impact in a crash will be:
+
+[This question comes from the same paragraph in the manual as another question asking about different speeds and needs replaced with something else]
+
+RESOLVED (gk4): Replaced with: "At highway speeds, what is usually the safest way to avoid a collision with an object in your path?" -- Answer: Steer around the obstacle. This avoids duplication with the existing gk15 question about tripling speed.
+
+Question 29
+What is the minimum tread depth for front tires?
+
+[This should be called "steer tires" not front tires]
+
+RESOLVED (gk16): Changed "front tires" to "steer tires" in both the question and explanation to match CDL manual terminology.
+
+Question 30
+What class CDL is required for any single vehicle with a GVWR of 26,001 pounds or more?
+
+[This question is vague and applies to Class A and Class B CDLs. It needs replaced with something better]
+
+RESOLVED (gk27): Replaced with: "How does the body get rid of alcohol?" -- Answer: The liver processes it at a fixed rate that cannot be sped up. This is from the CDL manual and is commonly tested. The existing gk26 already covers Class A CDL requirements adequately.
+
+Question 32
+Why should you avoid backing toward the passenger side?
+
+[This question hits on a subject from a previous question asking "what is best while backing" or something similar to that and the correct answer for that one is to back to the drivers side. It needs replaced with something different]
+
+RESOLVED (gk19): Replaced with: "Which of the following is required emergency equipment for a commercial vehicle?" -- Answer: Fire extinguisher, spare electrical fuses, and warning triangles. This eliminates the duplication with gk18 (backing toward driver's side).
+
+Question 33
+What is the minimum tread depth for other tires?
+
+[This one needs to specify drive or trailer tires 'other tires' is confusing and inaccurate]
+
+RESOLVED (gk17): Changed "other tires" to "drive and trailer tires" in both the question and explanation for clarity.
+
+Question 36
+At speeds over 40 mph, what additional following distance should you add?
+
+[this information doesn't seem to be specified in the CDL manual. This question needs replaced with something different]
+
+RESOLVED (gk11): Replaced with: "When should you turn off your retarder (engine brake)?" -- Answer: When the road is wet, icy, or slippery. This is from the CDL manual section on slippery conditions and is commonly tested.
+
+Question 41
+To pass the CDL knowledge test, you must answer what percentage of questions correctly?
+
+[This has nothing to do with the test material and would not be asked on the actual exam. It needs replaced with something more relevant]
+
+RESOLVED (gk28): Replaced with: "Which of the following types of commercial vehicles must stop at all railroad crossings?" -- Answer: Vehicles carrying passengers, placarded hazmat loads, and cargo tank vehicles. This is from the CDL manual and is a commonly tested topic.
+
+Question 42
+What is the minimum number of tie-downs for a 20-foot load?
+
+[This question is asked already but framed as "minimum number of tie downs necessary for a flatbed load" and needs to be replaced]
+
+RESOLVED (gk38): Replaced with: "What is the most important risk to be aware of when carrying a high center of gravity load?" -- Answer: Greater risk of rollover in curves and turns. This eliminates the duplication with gk37.

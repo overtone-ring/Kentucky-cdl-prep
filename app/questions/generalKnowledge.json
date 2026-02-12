@@ -29,27 +29,27 @@
     },
     {
       "id": "gk3",
-      "question": "How far ahead does 12 to 15 seconds represent at lower speeds?",
+      "question": "In cold weather, which road surfaces are most likely to become slippery first?",
       "choices": [
-        "About half a block",
-        "About one block",
-        "About two blocks",
-        "About 50 feet"
+        "Highways with heavy traffic",
+        "Bridges and overpasses",
+        "Roads with fresh asphalt",
+        "Roads in shaded valleys"
       ],
       "correct": 1,
-      "explanation": "At lower speeds, looking 12 to 15 seconds ahead is about one block."
+      "explanation": "Bridges and overpasses tend to freeze before other parts of the road because cold air reaches them from above and below. Be especially careful when the temperature is near freezing."
     },
     {
       "id": "gk4",
-      "question": "If you double your speed from 20 to 40 mph, the impact in a crash will be:",
+      "question": "At highway speeds, what is usually the safest way to avoid a collision with an object in your path?",
       "choices": [
-        "2 times greater",
-        "4 times greater",
-        "8 times greater",
-        "The same"
+        "Brake as hard as possible",
+        "Steer around the obstacle",
+        "Close your eyes and brace for impact",
+        "Shift into neutral and coast"
       ],
       "correct": 1,
-      "explanation": "When you double your speed from 20 to 40 mph, the impact is 4 times greater."
+      "explanation": "At speeds above 25 mph, you can almost always steer to miss an obstacle more quickly than you can stop. Steering to the right is usually the best option since no one should be there."
     },
     {
       "id": "gk5",
@@ -125,15 +125,15 @@
     },
     {
       "id": "gk11",
-      "question": "At speeds over 40 mph, what additional following distance should you add?",
+      "question": "When should you turn off your retarder (engine brake)?",
       "choices": [
-        "No additional time needed",
-        "Add 1 second",
-        "Add 3 seconds",
-        "Double the distance"
+        "When driving uphill",
+        "When the road is wet, icy, or slippery",
+        "When driving in heavy traffic",
+        "When the engine is cold"
       ],
       "correct": 1,
-      "explanation": "At speeds over 40 mph, you should add 1 second to your following distance."
+      "explanation": "Retarders can cause the drive wheels to skid when they have poor traction. Turn off retarders when the road is wet, icy, or snow-covered."
     },
     {
       "id": "gk12",
@@ -185,7 +185,7 @@
     },
     {
       "id": "gk16",
-      "question": "What is the minimum tread depth for front tires?",
+      "question": "What is the minimum tread depth for steer tires?",
       "choices": [
         "2/32 inch",
         "4/32 inch",
@@ -193,11 +193,11 @@
         "6/32 inch"
       ],
       "correct": 1,
-      "explanation": "Front tires must have tread depth of at least 4/32 inch."
+      "explanation": "Steer tires must have tread depth of at least 4/32 inch."
     },
     {
       "id": "gk17",
-      "question": "What is the minimum tread depth for other tires?",
+      "question": "What is the minimum tread depth for drive and trailer tires?",
       "choices": [
         "4/32 inch",
         "2/32 inch",
@@ -205,7 +205,7 @@
         "3/32 inch"
       ],
       "correct": 1,
-      "explanation": "Other tires must have tread depth of at least 2/32 inch."
+      "explanation": "Drive and trailer tires must have tread depth of at least 2/32 inch."
     },
     {
       "id": "gk18",
@@ -221,27 +221,27 @@
     },
     {
       "id": "gk19",
-      "question": "Why should you avoid backing toward the passenger side?",
+      "question": "Which of the following is required emergency equipment for a commercial vehicle?",
       "choices": [
-        "It's easier to back toward the driver's side",
-        "You cannot see as well",
-        "The turning radius is different",
-        "It's harder on the transmission"
+        "First aid kit, flares, and a fire blanket",
+        "Fire extinguisher, spare electrical fuses, and warning triangles",
+        "Jumper cables, a spare tire, and a jack",
+        "Road cones, a flashlight, and duct tape"
       ],
       "correct": 1,
-      "explanation": "Backing toward the right (passenger) side is very dangerous because you can't see as well."
+      "explanation": "All commercial vehicles are required to carry a properly charged and rated fire extinguisher, spare electrical fuses (unless equipped with circuit breakers), and warning devices such as three reflective triangles."
     },
     {
       "id": "gk20",
-      "question": "Which of the following is a cause of serious vehicle fires?",
+      "question": "What should you do if you experience a tire blowout while driving?",
       "choices": [
-        "Electrical problems",
-        "Fuel leaks",
-        "Smoking near the vehicle",
-        "All of the above"
+        "Brake hard immediately to stop quickly",
+        "Hold the steering wheel firmly, stay off the brake, and slow down gradually",
+        "Shift into neutral and coast to a stop",
+        "Accelerate briefly to stabilize the vehicle"
       ],
-      "correct": 3,
-      "explanation": "Vehicle fires can be caused by fuel leaks, electrical short circuits, improper use of flares, under-inflated tires, and flammable cargo. Spilled fuel, loose fuel connections, and improper fueling are common fire hazards."
+      "correct": 1,
+      "explanation": "In the event of a tire failure, hold the steering wheel firmly. Stay off the brake until the vehicle has slowed considerably, then brake gently, pull off the road, and stop."
     },
     {
       "id": "gk21",
@@ -317,27 +317,27 @@
     },
     {
       "id": "gk27",
-      "question": "What class CDL is required for any single vehicle with a GVWR of 26,001 pounds or more?",
+      "question": "How does the body get rid of alcohol?",
       "choices": [
-        "Class A",
-        "Class B",
-        "Class C",
-        "No CDL required"
+        "Drinking coffee speeds up the process",
+        "Fresh air and exercise eliminate it faster",
+        "The liver processes it at a fixed rate that cannot be sped up",
+        "Cold showers help metabolize it quickly"
       ],
-      "correct": 1,
-      "explanation": "Class B CDL is required for any single vehicle with a GVWR of 26,001 pounds or more."
+      "correct": 2,
+      "explanation": "The liver processes alcohol at a fixed rate, roughly one standard drink per hour. Nothing can speed this up — not coffee, fresh air, cold showers, or exercise. Only time will lower your BAC."
     },
     {
       "id": "gk28",
-      "question": "To pass the CDL knowledge test, you must answer what percentage of questions correctly?",
+      "question": "Which of the following types of commercial vehicles must stop at all railroad crossings?",
       "choices": [
-        "70 percent",
-        "75 percent",
-        "80 percent",
-        "90 percent"
+        "All vehicles over 10,000 pounds GVWR",
+        "Vehicles carrying passengers, placarded hazmat loads, and cargo tank vehicles",
+        "Only school buses and transit buses",
+        "Only vehicles carrying explosives"
       ],
-      "correct": 2,
-      "explanation": "For each test, 80 percent of the questions must be answered correctly to pass."
+      "correct": 1,
+      "explanation": "Vehicles that must always stop at railroad crossings include buses carrying passengers, vehicles carrying chlorine or other placarded hazardous materials, and cargo tank vehicles (whether loaded or empty)."
     },
     {
       "id": "gk29",
@@ -449,15 +449,15 @@
     },
     {
       "id": "gk38",
-      "question": "What is the minimum number of tie-downs for a 20-foot load?",
+      "question": "What is the most important risk to be aware of when carrying a high center of gravity load?",
       "choices": [
-        "One",
-        "Two",
-        "Three",
-        "Four"
+        "Increased fuel consumption",
+        "Greater risk of rollover in curves and turns",
+        "More wear on the front tires",
+        "Difficulty shifting gears"
       ],
       "correct": 1,
-      "explanation": "A 20-foot load requires a minimum of two tie-downs (one for each 10 feet)."
+      "explanation": "A high center of gravity means you are more likely to tip over. Rollovers can happen when you take a curve too fast, or when you have to swerve to avoid a hazard. Carry loads as close to the ground as possible."
     },
     {
       "id": "gk39",
@@ -469,7 +469,7 @@
         "150 miles"
       ],
       "correct": 1,
-      "explanation": "Check cargo within the first 50 miles after beginning a trip."
+      "explanation": "You should inspect cargo within the first 50 miles after beginning a trip. After that, recheck every 150 miles or every 3 hours, whichever comes first."
     },
     {
       "id": "gk40",
@@ -557,15 +557,15 @@
     },
     {
       "id": "gk47",
-      "question": "What color are the parking brake controls on newer vehicles with air brakes?",
+      "question": "If your vehicle begins to skid, what should you do first?",
       "choices": [
-        "Red",
-        "Blue",
-        "Yellow",
-        "Green"
+        "Apply the brakes firmly",
+        "Stop braking and stop accelerating",
+        "Turn the steering wheel hard in the opposite direction",
+        "Shift into a higher gear"
       ],
-      "correct": 2,
-      "explanation": "In newer vehicles with air brakes, the parking brakes are controlled using a diamond-shaped, yellow, push-pull control knob."
+      "correct": 1,
+      "explanation": "When a skid occurs, stop doing whatever caused the skid. If your drive wheels skid from too much braking, take your foot off the brake. If from too much acceleration, ease off the accelerator. Turn the steering wheel quickly in the direction you want to go."
     },
     {
       "id": "gk48",

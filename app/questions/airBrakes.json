@@ -77,27 +77,27 @@
     },
     {
       "id": "ab7",
-      "question": "What is the maximum air leakage rate for a combination vehicle with the parking brake released?",
+      "question": "In a dual air brake system, what typically happens if one air system develops a leak?",
       "choices": [
-        "2 psi in one minute",
-        "3 psi in one minute",
-        "4 psi in one minute",
-        "5 psi in one minute"
+        "All brakes immediately lock up",
+        "The brakes on one axle (front or rear) will not be fully operational",
+        "The parking brakes will automatically engage",
+        "The vehicle will be completely unable to stop"
       ],
       "correct": 1,
-      "explanation": "The loss rate should be less than three psi in one minute for combination vehicles."
+      "explanation": "A dual air brake system has two separate air systems. One typically operates the front brakes, the other the rear. If one develops a leak, the other still provides some braking, but you should stop as soon as safely possible and get the system fixed."
     },
     {
       "id": "ab8",
-      "question": "What is the maximum air leakage rate for a single vehicle with the brake pedal applied?",
+      "question": "Why should you never push the brake pedal down when the spring brakes are on?",
       "choices": [
-        "2 psi in one minute",
-        "3 psi in one minute",
-        "4 psi in one minute",
-        "5 psi in one minute"
+        "It wastes air pressure",
+        "The combined force of springs and air pressure could damage the brakes",
+        "It will cause the vehicle to accelerate",
+        "It releases the parking brakes"
       ],
       "correct": 1,
-      "explanation": "With the brake applied, air pressure should not drop more than three pounds in one minute for single vehicles."
+      "explanation": "If you push the brake pedal when the spring brakes are on, the brakes could be damaged by the combined forces of the springs and the air pressure. Develop the habit of never pushing the brake pedal when the spring brakes are engaged."
     },
     {
       "id": "ab9",
@@ -133,7 +133,7 @@
         "200 feet"
       ],
       "correct": 2,
-      "explanation": "At 55 mph for an average driver under good traction and brake conditions, the total stopping distance is approximately 450 feet or more (due to air brake lag adding about 32 feet beyond hydraulic brakes)."
+      "explanation": "At 55 mph the total stopping distance with air brakes is over 450 feet: perception (142 ft) + reaction (61 ft) + brake lag (32 ft) + braking (216 ft) = 451 ft. The extra brake lag distance is what makes air brake stopping distance longer than hydraulic brakes."
     },
     {
       "id": "ab12",
@@ -209,15 +209,15 @@
     },
     {
       "id": "ab18",
-      "question": "Other air brake vehicles (trucks, buses, trailers, dollies) built after what date must have ABS?",
+      "question": "What is the purpose of an alcohol evaporator in an air brake system?",
       "choices": [
-        "March 1, 1997",
-        "March 1, 1998",
-        "January 1, 1999",
-        "January 1, 2000"
+        "To clean oil out of the air lines",
+        "To reduce the risk of ice forming in air brake valves during cold weather",
+        "To improve braking performance in hot weather",
+        "To remove moisture from the brake drums"
       ],
       "correct": 1,
-      "explanation": "Other air brake vehicles built on or after March 1, 1998 are required to be equipped with antilock brakes."
+      "explanation": "Some air brake systems have an alcohol evaporator that puts alcohol into the air system. This helps reduce the risk of ice in air brake valves and other parts during cold weather. Check and fill the alcohol container as necessary during cold weather."
     },
     {
       "id": "ab19",
@@ -289,7 +289,7 @@
         "Triangle"
       ],
       "correct": 2,
-      "explanation": "In newer vehicles with air brakes, you put on the parking brakes using a diamond-shaped, yellow, push-pull control knob."
+      "explanation": "In newer vehicles with air brakes, the parking brake control is a diamond-shaped, push-pull knob. On single vehicles this knob is yellow. On combination vehicles, there is a yellow knob for the tractor parking brake and a red knob (trailer air supply) for the trailer."
     },
     {
       "id": "ab25",
